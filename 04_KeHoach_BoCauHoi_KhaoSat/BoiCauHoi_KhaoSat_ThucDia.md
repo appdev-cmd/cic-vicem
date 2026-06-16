@@ -13,7 +13,7 @@
 ### Khối 1A: Các yếu tố quyết định lựa chọn Mô hình tổ chức Ban Quản lý dự án
 1.  **Định hướng về quy mô và tần suất các dự án đầu tư của VICEM Hà Tiên trong giai đoạn 3–5 năm tới (Đặc biệt dưới tác động của Luật Xây dựng mới 135/2025):**
     *   *Mục đích:* Xác định quy mô đầu tư dự kiến để định hình tính chuyên trách, liên tục của mô hình tổ chức Ban QLDA phù hợp với định hướng phát triển của VICEM Hà Tiên.
-    *   *Căn cứ pháp lý:* Điều 32 Luật Xây dựng 2014 (sửa đổi năm 2020), Điều 88 & Điều 91 Luật Xây dựng 135/2025/QH15; Điều 46 Dự thảo Nghị định hướng dẫn HĐXD (04/3/2026).
+    *   *Căn cứ pháp lý:* Điều 32 Luật Xây dựng 2014 (sửa đổi năm 2020), Điều 88 & Điều 91 Luật Xây dựng 135/2025/QH15; Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Quy mô đầu tư lớn, tần suất cao, đồng thời triển khai nhiều dự án (Nhóm A, B trên 120 tỷ đồng) thuộc nhiều lĩnh vực chuyên ngành hoặc phân bổ tại nhiều vùng/khu vực khác nhau (Phù hợp thành lập Ban QLDA chuyên ngành hoặc Ban QLDA khu vực có tư cách pháp nhân độc lập để quản lý tập trung và lâu dài - Phương án 2).
     *   [ ] B. Dự án chủ yếu là cải tạo công nghệ, nâng cấp chiều sâu quy mô trung bình (Nhóm B, C từ 15 tỷ đến 120 tỷ đồng) tại các nhà máy hiện hữu, tần suất không liên tục (Phù hợp mô hình Ban QLDA trực thuộc hạch toán phụ thuộc - Phương án 1).
     *   [ ] C. Dự án quy mô nhỏ, sửa chữa thường xuyên (dưới 15 tỷ đồng), mang tính thời điểm, không liên tục (Phù hợp mô hình Tổ QLDA kiêm nhiệm lâm thời, kết hợp thuê tư vấn QLDA chuyên nghiệp - Phương án 3).
@@ -34,21 +34,21 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 4.  **Trên cơ sở phân tích ưu - nhược điểm của các phương án tổ chức, Ban lãnh đạo định hướng lựa chọn mô hình nào làm mục tiêu chuyển đổi:**
     *   *Mục đích:* Thu thập định hướng của lãnh đạo về mô hình tổ chức mục tiêu (Ban trực thuộc hạch toán phụ thuộc, Ban chuyên ngành/khu vực độc lập hoặc thuê tư vấn).
-    *   *Căn cứ pháp lý:* Điều 46, 47, 48, 49 Dự thảo Nghị định hướng dẫn HĐXD (04/3/2026).
+    *   *Căn cứ pháp lý:* Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Phương án 1: Ban QLDA trực thuộc (Đơn vị phụ thuộc, sử dụng pháp nhân Công ty, kiểm soát dòng tiền qua các phòng ban Công ty - Mô hình khuyên dùng).
     *   [ ] B. Phương án 2: Ban QLDA chuyên ngành / khu vực độc lập (Có tư cách pháp nhân, tài khoản riêng, tự chủ tài chính hoàn toàn).
     *   [ ] C. Phương án 3: Mô hình hỗn hợp (Tổ QLDA kiêm nhiệm lâm thời cho dự án nhỏ + thuê tư vấn QLDA chuyên nghiệp cho dự án lớn).
     *   [ ] D. Ý kiến khác: ..............................................................................................
 5.  **Đánh giá mức độ đáp ứng về chứng chỉ hành nghề hoạt động xây dựng theo Luật Xây dựng 135/2025/QH15 (Giám đốc QLDA không cần chứng chỉ hành nghề QLDA mà chỉ cần đáp ứng năng lực/kinh nghiệm; còn cán bộ chuyên môn phụ trách chất lượng, tiến độ, an toàn... bắt buộc có chứng chỉ hành nghề Thiết kế hoặc Giám sát phù hợp) của đội ngũ cán bộ Ban QLDA hiện nay:**
     *   *Mục đích:* Đánh giá thực trạng năng lực hành nghề của đội ngũ để đối chiếu với điều kiện năng lực tự thực hiện dự án theo quy định mới.
-    *   *Căn cứ pháp lý:* Điều 88 Luật Xây dựng 135/2025/QH15; Điều 47 Khoản 5 Dự thảo Nghị định hướng dẫn HĐXD (04/3/2026).
+    *   *Căn cứ pháp lý:* Điều 88 Luật Xây dựng 135/2025/QH15; Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Đội ngũ cán bộ chuyên môn có đầy đủ chứng chỉ hành nghề Thiết kế/Giám sát Hạng I, Hạng II; hoàn toàn đáp ứng yêu cầu tự thực hiện quản lý trực tiếp các dự án lớn Nhóm A, B (Phù hợp Phương án 1, 2).
     *   [ ] B. Đội ngũ cán bộ chuyên môn có chứng chỉ Hạng II, Hạng III; đáp ứng tự thực hiện các dự án Nhóm C, còn các dự án lớn Nhóm A, B bắt buộc phải thuê tư vấn QLDA độc lập phối hợp (Phù hợp Phương án 3 hoặc Phương án 1 phối hợp tư vấn).
     *   [ ] C. Thiếu chứng chỉ hành nghề chuyên môn Thiết kế/Giám sát; Ban QLDA chủ yếu quản lý về mặt thủ tục pháp lý/hợp đồng, toàn bộ công tác điều hành/giám sát hiện trường phải thuê tư vấn chuyên nghiệp thực hiện (Phù hợp Phương án 3).
     *   [ ] D. Ý kiến khác: ..............................................................................................
 6.  **Định hướng phương thức điều hành dự án đối với các địa bàn nằm ngoài văn phòng chính của Công ty (Nhà máy Kiên Lương, Bình Phước, các trạm nghiền vệ tinh):**
     *   *Mục đích:* Đánh giá sự phù hợp của mô hình quản lý tập trung hay phân tán khi triển khai các dự án tại các đơn vị thành viên ở địa bàn khác.
-    *   *Căn cứ pháp lý:* Điều 47 Khoản 1 & Khoản 3 Dự thảo Nghị định hướng dẫn HĐXD (04/3/2026).
+    *   *Căn cứ pháp lý:* Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Quản lý tập trung: Ban QLDA tại văn phòng chính cử cán bộ biệt phái xuống hiện trường khi có dự án, mọi hồ sơ pháp lý/thanh toán vẫn do Ban QLDA trung tâm giải quyết (Tối ưu hóa nhân sự - Phù hợp Phương án 1).
     *   [ ] B. Phân tán cục bộ: Thành lập các phân ban hoặc tổ QLDA thường trực tại các nhà máy/trạm nghiền, giao quyền chủ động xử lý hiện trường và phối hợp trực tiếp với Giám đốc đơn vị thụ hưởng (Tối ưu hóa tiến độ hiện trường - Phù hợp Phương án 1 cải tiến).
     *   [ ] C. Giao thẳng cho Nhà máy thành viên tự thực hiện QLDA đối với các dự án cải tạo, sửa chữa nhỏ nằm trong khuôn viên nhà máy đó (Phù hợp Phương án 3).
@@ -79,7 +79,7 @@
     *   [ ] E. Ý kiến khác: ..............................................................................................
 10. **Mức độ sẵn sàng đầu tư ngân sách cho hạ tầng công nghệ, phần mềm quản lý và đào tạo nhân sự triển khai BIM/CDE bắt buộc:**
     *   *Mục đích:* Xác định mức độ sẵn sàng đầu tư công nghệ của Ban lãnh đạo nhằm đáp ứng yêu cầu bắt buộc áp dụng Mô hình thông tin công trình (BIM).
-    *   *Căn cứ pháp lý:* Lộ trình áp dụng BIM theo Quyết định 258/QĐ-TTg của Thủ tướng Chính phủ; Dự thảo Nghị định hướng dẫn HĐXD 2026.
+    *   *Căn cứ pháp lý:* Lộ trình áp dụng BIM theo Quyết định 258/QĐ-TTg của Thủ tướng Chính phủ; Nghị định 207/2026/NĐ-CP về quản lý chất lượng thi công xây dựng và bảo trì công trình xây dựng.
     *   [ ] A. Sẵn sàng đầu tư đồng bộ cả phần cứng, mua bản quyền phần mềm và đào tạo chuyên sâu cho nhân sự.
     *   [ ] B. Chỉ đầu tư ở mức tối thiểu để đáp ứng yêu cầu pháp lý bắt buộc từ ngày 01/07/2026.
     *   [ ] C. Ưu tiên thuê đơn vị tư vấn ngoài thực hiện BIM, chưa có kế hoạch đầu tư hạ tầng nội bộ.
@@ -166,7 +166,7 @@
 
 ---
 
-## PHIÊN 2: KẾ HOẠCH & CHIẾN LƯỢC (KHTH + KHCL + Tổ Thẩm định) (Ngày 1 — 11:00–12:30)
+## PHIÊN 2: KẾ HOẠCH & CHIẾN LƯỢC (KHCL + Tổ Thẩm định) (Ngày 1 — 11:00–12:30)
 **Trọng tâm:** Quy trình 34 (Quản lý dự án tổng thể), lập kế hoạch đầu tư trung và dài hạn + Quy trình mới (Giám sát, đánh giá và báo cáo dự án định kỳ)  
 **Phỏng vấn viên chính:** Tư vấn trưởng
 
@@ -234,7 +234,7 @@
     *   *Mục đích:* Khảo sát các công cụ, phương pháp cảnh báo rủi ro về tiến độ và chi phí trong quá trình thực hiện dự án.
     *   *Căn cứ pháp lý:* Các quy định về quản lý tiến độ và chi phí đầu tư xây dựng.
     *   [ ] A. Có hệ thống cảnh báo tự động trên phần mềm quản lý dự án khi phát sinh độ trễ tiến độ.
-    *   [ ] B. Dựa trên báo cáo kiểm soát định kỳ của phòng KHTH tại các cuộc họp giao ban tuần/tháng.
+    *   [ ] B. Dựa trên báo cáo kiểm soát định kỳ của Ban QLDA tại các cuộc họp giao ban tuần/tháng.
     *   [ ] C. Chưa có cơ chế cảnh báo sớm, chỉ phát hiện và xử lý khi sự việc đã phát sinh thực tế.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 10.  **Việc tổng hợp số liệu báo cáo tình hình quyết toán dự án hàng năm tại đơn vị:**
@@ -253,10 +253,10 @@
     *   [ ] B. Chỉ tiêu và định hướng đầu tư từ Tổng công ty VICEM thay đổi đột ngột hoặc việc phê duyệt kế hoạch hàng năm bị chậm.
     *   [ ] C. Thiếu công cụ số hóa để theo dõi tiến độ thực hiện kế hoạch, chủ yếu quản lý bằng Excel thủ công.
     *   [ ] D. Ý kiến khác: ..............................................................................................
-12. **Sự phối hợp giữa phòng Kế hoạch Chiến lược và phòng KHTH (Ban QLDA) trong giai đoạn chuẩn bị dự án:**
+12. **Sự phối hợp giữa phòng Kế hoạch Chiến lược và Ban QLDA trong giai đoạn chuẩn bị dự án:**
     *   *Mục đích:* Tối ưu hóa ranh giới chuyển giao công việc giữa giai đoạn chuẩn bị đầu tư (phòng KHCL) và thực hiện dự án (Ban QLDA).
     *   *Căn cứ pháp lý:* Quy chế phối hợp nội bộ của VICEM Hà Tiên.
-    *   [ ] A. Phân định trách nhiệm rõ ràng: Phòng KHCL chủ trì lập chủ trương đầu tư; phòng KHTH tiếp nhận thực hiện bước lập FS.
+    *   [ ] A. Phân định trách nhiệm rõ ràng: Phòng KHCL chủ trì lập chủ trương đầu tư; Ban QLDA tiếp nhận thực hiện bước lập FS.
     *   [ ] B. Có sự chồng chéo, chưa phân định rõ ranh giới trách nhiệm khi lập báo cáo đề xuất dự án.
     *   [ ] C. Phối hợp nhịp nhàng, không gặp vướng mắc về thủ tục chuyển giao hồ sơ.
     *   [ ] D. Ý kiến khác: ..............................................................................................
@@ -310,7 +310,7 @@
 
 ---
 
-## PHIÊN 3: ĐẤU THẦU & HỢP ĐỒNG (KTPC + TCG + KHTH) (Ngày 1 — 14:00–15:25)
+## PHIÊN 3: ĐẤU THẦU & HỢP ĐỒNG (KTPC + TCG + PVT) (Ngày 1 — 14:00–15:25)
 **Trọng tâm:** Quy trình 35 (Lựa chọn nhà thầu), Quy trình 37 (Thực hiện hợp đồng) + Quy trình mới (Tranh chấp hợp đồng)  
 **Phỏng vấn viên chính:** Tư vấn trưởng
 
@@ -368,14 +368,14 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 8.  **Những khó khăn thực tế khi xử lý phát sinh (vượt dự toán gói thầu nhưng chưa vượt tổng mức đầu tư) — thời gian phê duyệt và ảnh hưởng tiến độ:**
     *   *Mục đích:* Tối ưu hóa thời gian xử lý thủ tục phát sinh để không làm gián đoạn việc thi công của nhà thầu trên công trường.
-    *   *Căn cứ pháp lý:* Nghị định quy định chi tiết về hợp đồng xây dựng.
+    *   *Căn cứ pháp lý:* Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Quy trình xử lý nhanh chóng (dưới 15 ngày), không ảnh hưởng đến tiến độ thi công của nhà thầu.
     *   [ ] B. Thời gian phê duyệt kéo dài từ 1–3 tháng do thủ tục thẩm định nội bộ phức tạp, khiến nhà thầu phải dừng thi công chờ phụ lục hợp đồng.
     *   [ ] C. Gặp khó khăn lớn trong việc thỏa thuận và xác định đơn giá cho các khối lượng phát sinh mới chưa có trong hợp đồng gốc.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 9.  **Thời gian trung bình để hoàn thành việc ký kết một phụ lục hợp đồng phát sinh:**
     *   *Mục đích:* Nhận diện điểm trễ trong công tác đàm phán, phê duyệt phụ lục hợp đồng phát sinh để đề xuất thời hạn chuẩn.
-    *   *Căn cứ pháp lý:* Quy định về điều chỉnh hợp đồng xây dựng theo Nghị định 37/2015/NĐ-CP.
+    *   *Căn cứ pháp lý:* Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Dưới 15 ngày kể từ khi phát sinh yêu cầu.
     *   [ ] B. Kéo dài từ 15 - 30 ngày do thủ tục kiểm tra chéo giữa Ban QLDA và phòng ban Công ty.
     *   [ ] C. Trên 30 ngày do phải trình qua nhiều cấp phê duyệt và xin ý kiến Tổ Thẩm định.
@@ -389,7 +389,7 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 11. **Vướng mắc lớn nhất khi áp dụng loại hợp đồng trọn gói đối với các dự án cải tạo, sửa chữa lớn có nhiều yếu tố ẩn tàng, khó lường trước:**
     *   *Mục đích:* Nhận diện hạn chế của loại hợp đồng trọn gói đối với dự án cải tạo chiều sâu nhằm cải tiến điều khoản hợp đồng.
-    *   *Căn cứ pháp lý:* Nghị định quy định chi tiết về hợp đồng xây dựng.
+    *   *Căn cứ pháp lý:* Nghị định 210/2026/NĐ-CP về quản lý hợp đồng xây dựng.
     *   [ ] A. Phát sinh nhiều khối lượng ngoài thiết kế ban đầu dẫn đến tranh chấp kéo dài về đơn giá thanh toán với nhà thầu.
     *   [ ] B. Nhà thầu cố tình thi công cầm chừng hoặc giảm chất lượng để bù đắp chi phí phát sinh không được thanh toán.
     *   [ ] C. Không gặp vướng mắc lớn do công tác lập thiết kế bản vẽ thi công ban đầu có chất lượng và độ chính xác cao.
@@ -403,7 +403,7 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 13. **Tình hình áp dụng chế tài phạt vi phạm hợp đồng xây dựng trong thực tế tại đơn vị:**
     *   *Mục đích:* Đánh giá tính nghiêm ngặt và rào cản khi thực hiện chế tài phạt hợp đồng đối với các nhà thầu vi phạm tiến độ/chất lượng.
-    *   *Căn cứ pháp lý:* Nghị định 37/2015/NĐ-CP (quy định mức phạt tối đa).
+    *   *Căn cứ pháp lý:* Nghị định 210/2026/NĐ-CP (quy định về hợp đồng xây dựng).
     *   [ ] A. Thường xuyên áp dụng phạt vi phạm tiến độ/chất lượng đối với các nhà thầu chậm trễ.
     *   [ ] B. Ít khi áp dụng phạt tiền, chủ yếu giải quyết bằng biện pháp nhắc nhở, thương lượng gia hạn tiến độ.
     *   [ ] C. Gặp khó khăn khi áp dụng chế tài phạt do các điều khoản hợp đồng chưa chặt chẽ.
@@ -435,7 +435,7 @@
 
 ---
 
-## PHIÊN 4: TÀI CHÍNH & THANH QUYẾT TOÁN (KTDA + TCKT) (Ngày 1 — 15:35–17:00)
+## PHIÊN 4: TÀI CHÍNH & THANH QUYẾT TOÁN (TCKT + Ban QLDA) (Ngày 1 — 15:35–17:00)
 **Trọng tâm:** Quy trình 17 (Thanh toán), Quy trình 18 (Quyết toán dự án hoàn thành)  
 **Phỏng vấn viên chính:** Chuyên viên tư vấn
 
@@ -470,11 +470,11 @@
     *   [ ] B. Từ 7 - 15 ngày làm việc.
     *   [ ] C. Trên 15 ngày làm việc do thủ tục phê duyệt nội bộ kéo dài.
     *   [ ] D. Ý kiến khác: ..............................................................................................
-5.  **Khó khăn lớn nhất trong việc phối hợp giữa phòng Kỹ thuật hiện trường, phòng KHTH và phòng Kế toán khi tổng hợp, kiểm tra hồ sơ hoàn công để lập đợt thanh toán là gì:**
+5.  **Khó khăn lớn nhất trong việc phối hợp giữa phòng Kỹ thuật hiện trường, Ban QLDA và phòng Kế toán khi tổng hợp, kiểm tra hồ sơ hoàn công để lập đợt thanh toán là gì:**
     *   *Mục đích:* Tối ưu hóa sự phối hợp đa chức năng để rút ngắn chu kỳ chuẩn bị và phê duyệt thanh toán khối lượng hoàn thành.
     *   *Căn cứ pháp lý:* Quy chế quản lý tài chính của Công ty.
     *   [ ] A. Hồ sơ hoàn công của nhà thầu lập có nhiều sai sót, thiếu sót chứng từ chất lượng, phải sửa đi sửa lại nhiều lần.
-    *   [ ] B. Thời gian đối chiếu khối lượng thực tế giữa giám sát kỹ thuật và phòng KHTH bị kéo dài do thiếu công cụ số hóa đồng bộ.
+    *   [ ] B. Thời gian đối chiếu khối lượng thực tế giữa giám sát kỹ thuật và Ban QLDA bị kéo dài do thiếu công cụ số hóa đồng bộ.
     *   [ ] C. Phối hợp nhịp nhàng, không gặp khó khăn lớn nào.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 
@@ -502,7 +502,7 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 9.  **Những khó khăn hoặc rào cản pháp lý/kế toán khi thực hiện quyết toán độc lập từng hạng mục công trình bàn giao đưa vào sử dụng trước là gì:**
     *   *Mục đích:* Đưa ra cơ chế quyết toán từng phần đối với các dự án lớn có nhiều hạng mục độc lập đưa vào khai thác trước.
-    *   *Căn cứ pháp lý:* Nghị định về quản lý chi phí đầu tư xây dựng.
+    *   *Căn cứ pháp lý:* Nghị định 206/2026/NĐ-CP về quản lý chi phí đầu tư xây dựng.
     *   [ ] A. Quy định của Tổng công ty hoặc cơ chế hạch toán tài sản của Công ty chưa linh hoạt, bắt buộc chờ toàn bộ dự án hoàn thành mới quyết toán.
     *   [ ] B. Gặp khó khăn lớn khi phân bổ chi phí chung (chi phí QLDA, chi phí tư vấn...) cho từng hạng mục công trình riêng lẻ để quyết toán trước.
     *   [ ] C. Chưa từng áp dụng hình thức này do lo ngại rủi ro pháp lý/kiểm toán nhà nước.
@@ -563,14 +563,14 @@
 
 ---
 
-## PHIÊN 5: KỸ THUẬT & VẬN HÀNH (PKTH + TBDS) (Ngày 2 — 08:30–10:10)
+## PHIÊN 5: KỸ THUẬT & VẬN HÀNH (PKT + ATMT + TCHC) (Ngày 2 — 08:30–10:10)
 **Trọng tâm:** Quy trình 36 (Quản lý chất lượng chuẩn bị đầu tư), Quy trình 16 (Quản lý chất lượng hoạt động đầu tư), Quy trình mới về bàn giao/bảo hành/bảo trì, Quy trình an toàn lao động và môi trường.  
 **Phỏng vấn viên chính:** Chuyên viên tư vấn
 
 ### Khối 5A: Quy trình 36 & Quy trình 16 — Quản lý chất lượng & Giám sát thi công
 1.  **Quy trình lập nhiệm vụ và nghiệm thu kết quả khảo sát xây dựng:**
     *   *Mục đích:* Đánh giá chất lượng khảo sát thực tế và các khó khăn gặp phải làm ảnh hưởng đến thiết kế.
-    *   *Căn cứ pháp lý:* Nghị định quy định chi tiết về quản lý chất lượng công trình xây dựng.
+    *   *Căn cứ pháp lý:* Nghị định 207/2026/NĐ-CP.
     *   [ ] A. Công tác khảo sát thực địa được giám sát chặt chẽ, chất lượng khảo sát tốt, ít khi phải điều chỉnh thiết kế trong quá trình thi công.
     *   [ ] B. Thường xảy ra sai lệch giữa kết quả khảo sát và thực tế thi công, dẫn đến phải điều chỉnh thiết kế hoặc phát sinh khối lượng lớn.
     *   [ ] C. Hồ sơ khảo sát do nhà thầu lập chưa đầy đủ chi tiết nhưng vẫn nghiệm thu để kịp tiến độ chuẩn bị dự án.
@@ -598,41 +598,41 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 5.  **Tình trạng nghiệm thu hoàn thành đưa công trình vào sử dụng thực tế:**
     *   *Mục đích:* Khảo sát thực tế vướng mắc và giải pháp xử lý đối với công trình nghiệm thu hoàn thành đưa vào sử dụng.
-    *   *Căn cứ pháp lý:* Luật Xây dựng và Nghị định về quản lý chất lượng công trình xây dựng.
+    *   *Căn cứ pháp lý:* Luật Xây dựng và Nghị định 207/2026/NĐ-CP về quản lý chất lượng thi công xây dựng và bảo trì.
     *   [ ] A. Thực hiện đầy đủ các bước nghiệm thu kỹ thuật và hoàn thiện hồ sơ nghiệm thu trước khi vận hành.
     *   [ ] B. Có một số trường hợp phải "nghiệm thu có điều kiện" để kịp tiến độ đưa vào sản xuất, sau đó nhà thầu hoàn thiện hồ sơ sau.
     *   [ ] C. Gặp vướng mắc lớn ở khâu nghiệm thu phòng cháy chữa cháy hoặc bảo vệ môi trường của cơ quan nhà nước.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 6.  **Hình thức thực hiện công tác Giám sát thi công xây dựng công trình:**
     *   *Mục đích:* Đánh giá những khó khăn thực tế trong việc kiểm soát chất lượng thi công của nhà thầu.
-    *   *Căn cứ pháp lý:* Luật Xây dựng và Nghị định về quản lý chất lượng.
+    *   *Căn cứ pháp lý:* Luật Xây dựng 135/2025/QH15 và Nghị định 207/2026/NĐ-CP.
     *   [ ] A. Giám sát viên kiểm soát tốt chất lượng thi công của nhà thầu, vật liệu đầu vào và các biện pháp thi công.
     *   [ ] B. Gặp khó khăn trong việc kiểm soát chất lượng do năng lực của nhà thầu phụ hoặc nhân sự của nhà thầu thi công kém.
     *   [ ] C. Việc thực hiện thí nghiệm đối chứng chất lượng vật liệu kết cấu chịu lực gặp khó khăn về chi phí hoặc thủ tục.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 7.  **Việc lập và lưu trữ Báo cáo giám sát thi công xây dựng định kỳ:**
     *   *Mục đích:* Đánh giá khó khăn và tính khả thi khi áp dụng số hóa vào công tác lập báo cáo, nhật ký công trình.
-    *   *Căn cứ pháp lý:* Nghị định về quản lý chất lượng mới năm 2026.
+    *   *Căn cứ pháp lý:* Nghị định 207/2026/NĐ-CP về quản lý chất lượng thi công xây dựng và bảo trì.
     *   [ ] A. Công tác báo cáo, ghi nhật ký thi công giấy hiện hành thuận lợi, hồ sơ được cập nhật liên tục.
     *   [ ] B. Khó khăn khi cập nhật báo cáo định kỳ bằng giấy do cán bộ giám sát quá tải, chủ yếu dồn lại lập khi nghiệm thu giai đoạn.
     *   [ ] C. Đơn vị chưa có hạ tầng công nghệ và quy trình chuẩn bị cho việc áp dụng Nhật ký thi công điện tử và chữ ký số.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 8.  **Quy trình xử lý khi phát hiện hạng mục công trình không đạt yêu cầu chất lượng:**
     *   *Mục đích:* Đánh giá tính nghiêm ngặt và hiệu quả thực tế của các chế tài xử lý vi phạm chất lượng đối với nhà thầu.
-    *   *Căn cứ pháp lý:* Nghị định về quản lý chất lượng công trình xây dựng.
+    *   *Căn cứ pháp lý:* Nghị định 207/2026/NĐ-CP về quản lý chất lượng thi công xây dựng và bảo trì.
     *   [ ] A. Quy trình xử lý vi phạm chất lượng nghiêm ngặt, nhà thầu khắc phục ngay khi có biên bản đình chỉ/yêu cầu sửa chữa.
     *   [ ] B. Chế tài xử lý còn yếu, chủ yếu nhắc nhở tại hiện trường, chưa có quy trình chuẩn hóa bắt buộc nhà thầu khắc phục triệt để bằng văn bản.
     *   [ ] C. Gặp khó khăn khi buộc nhà thầu thi công lại các phần việc không đạt chất lượng do lo ngại ảnh hưởng đến tiến độ dự án.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 9.  **Việc phối hợp thực hiện kiểm tra công tác nghiệm thu của cơ quan quản lý nhà nước (nếu có):**
     *   *Mục đích:* Nhận diện khó khăn thủ tục hành chính khi phối hợp với cơ quan nhà nước để nghiệm thu đưa công trình vào sử dụng.
-    *   *Căn cứ pháp lý:* Nghị định về quản lý chất lượng công trình xây dựng.
+    *   *Căn cứ pháp lý:* Nghị định 207/2026/NĐ-CP về quản lý chất lượng thi công xây dựng và bảo trì.
     *   [ ] A. Thủ tục phối hợp thuận lợi, cơ quan nhà nước kiểm tra và ban hành văn bản chấp thuận nghiệm thu đúng tiến độ.
     *   [ ] B. Hồ sơ nghiệm thu bị trả lại hoặc yêu cầu bổ sung nhiều lần do thiếu tính đồng bộ giữa hồ sơ chất lượng và thực tế thi công.
     *   [ ] C. Thời gian chờ cơ quan nhà nước kiểm tra và ra văn bản chấp thuận kéo dài, làm chậm tiến độ đưa dự án vào khai thác.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 
-### Khối 5B: Quy trình mới — Bàn giao, bảo hành và bảo trì (Nghị định Quản lý chất lượng 2026)
+### Khối 5B: Quy trình mới — Bàn giao, bảo hành và bảo trì (Nghị định 207/2026/NĐ-CP)
 10. **Nhận diện điểm nghẽn và giải pháp xử lý thực tế đối với sự chậm trễ trong bàn giao hồ sơ pháp lý/quyết toán khi đưa công trình vào vận hành nhanh:**
     *   *Mục đích:* Nhận diện điểm nghẽn thực tế và cơ chế giải quyết khi bàn giao tài sản nhanh để sản xuất.
     *   *Căn cứ pháp lý:* Quy trình bàn giao, bảo hành và bảo trì mới theo Luật Xây dựng 135/2025.
@@ -649,14 +649,14 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 12. **Đánh giá tính hiệu quả của cơ chế chế tài nhà thầu thực hiện bảo hành, đặc biệt với các lỗi nhỏ hoặc khi hết hạn bảo hành:**
     *   *Mục đích:* Tìm kiếm cơ chế đôn đốc và phạt vi phạm bảo hành hiệu quả để giảm thiểu thiệt hại cho đơn vị vận hành.
-    *   *Căn cứ pháp lý:* Nghị định quy định chi tiết về quản lý chất lượng công trình.
+    *   *Căn cứ pháp lý:* Nghị định 207/2026/NĐ-CP.
     *   [ ] A. Nhà thầu tự giác và phản hồi nhanh chóng; tiền giữ lại bảo hành (3%–5%) đủ sức răn đe nhà thầu thực hiện nghĩa vụ.
     *   [ ] B. Gặp nhiều khó khăn khi đôn đốc nhà thầu sửa chữa các lỗi nhỏ, buộc Ban QLDA hoặc đơn vị vận hành phải tự khắc phục bằng chi phí nội bộ.
     *   [ ] C. Chưa có công cụ theo dõi, cảnh báo tự động về thời hạn bảo hành của các gói thầu, chủ yếu quản lý bằng bảng theo dõi thủ công.
     *   [ ] D. Ý kiến khác: ..............................................................................................
 13. **Đánh giá hiện trạng lập, phê duyệt quy trình bảo trì cho phần xây dựng công trình công nghiệp lớn (khoảng trống pháp lý lớn):**
     *   *Mục đích:* Khắc phục "khoảng trống" thiếu quy trình bảo trì cho các silo, tháp sấy, nhà xưởng lớn để đảm bảo an toàn chịu lực lâu dài.
-    *   *Căn cứ pháp lý:* Luật Xây dựng 135/2025; Nghị định quản lý chất lượng và bảo trì công trình.
+    *   *Căn cứ pháp lý:* Luật Xây dựng 135/2025/QH15; Nghị định 207/2026/NĐ-CP.
     *   [ ] A. Đã lập và phê duyệt quy trình bảo trì phần xây dựng cho 100% công trình lớn đưa vào sử dụng từ trước đến nay.
     *   [ ] B. Chỉ lập quy trình bảo trì cho thiết bị công nghệ; phần xây dựng công trình hoàn toàn chưa được lập quy trình bảo trì riêng, chủ yếu sửa chữa sự cố phát sinh.
     *   [ ] C. Gặp khó khăn do thiếu nhân sự chuyên môn về kỹ thuật xây dựng để tự lập/thẩm định quy trình bảo trì phần xây dựng.
@@ -791,7 +791,7 @@
     *   [ ] D. Ý kiến khác: ..............................................................................................
 6.  **Khả năng ứng dụng Nhật ký thi công điện tử và Biên bản nghiệm thu điện tử (có chữ ký số):**
     *   *Mục đích:* Cắt giảm việc in ấn hồ sơ giấy đồ sộ bằng cách chuyển đổi sang biên bản điện tử có chữ ký số.
-    *   *Căn cứ pháp lý:* Luật Giao dịch điện tử 20/2023/QH15; Nghị định quản lý chất lượng công trình xây dựng.
+    *   *Căn cứ pháp lý:* Luật Giao dịch điện tử 20/2023/QH15; Nghị định 207/2026/NĐ-CP.
     *   [ ] A. Hạ tầng CNTT của Công ty hoàn toàn đáp ứng và cán bộ sẵn sàng sử dụng chữ ký số để ký biên bản điện tử.
     *   [ ] B. Hạ tầng chưa sẵn sàng, đồng thời nhà thầu cũng chưa quen việc sử dụng chữ ký số trên công trường.
     *   [ ] C. Gặp vướng mắc pháp lý về mặt công nhận tính pháp lý của nhật ký thi công điện tử trong hồ sơ quyết toán hoàn thành.

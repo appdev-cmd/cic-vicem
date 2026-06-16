@@ -49,7 +49,43 @@ Theo **Điều 32 Luật Xây dựng 135/2025** (có hiệu lực từ 01/07/202
 
 ### 3.2. Hiện trạng tổ chức và vận hành Ban Quản lý dự án tại VICEM Hà Tiên
 * **Cấu trúc tổ chức:** Ban QLDA trực thuộc VICEM Hà Tiên đóng vai trò điều phối trung tâm các dự án đầu tư xây dựng, phối hợp ma trận ngang chặt chẽ với các phòng ban chuyên môn tại Văn phòng Công ty gồm Phòng Kế hoạch Tổng hợp (KHTH), Phòng Kỹ thuật (PKTH), Phòng Tài chính - Kế toán (Công ty) và bộ phận Kế toán dự án (KTDA) thuộc Ban.
-* **Quy mô dự án đã quản lý:** Đã hoàn thành và đang lưu trữ quyết toán danh mục đầu tư đồ sộ gồm 32 dự án (từ DA05 đến DA51) bao gồm dự án dây chuyền thiết bị công nghệ lớn (Dây chuyền 02 NMBP - DA09, Dự án nghiền xi măng tại NMXMKL - DA39), dự án mỏ (Mỏ đá vôi Thanh Lương - DA15) và các dự án năng lượng xanh/tận dụng nhiệt khí thải (DA10, DA45).
+* **Quy mô dự án đã quản lý:** Đã hoàn thành và đang lưu trữ quyết toán danh mục đầu tư lớn gồm 32 dự án (từ DA05 đến DA51). Căn cứ theo các quy định pháp luật xây dựng hiện hành (Luật Xây dựng 135/2025, Luật Đầu tư công 2019 và Nghị định 15/2021/NĐ-CP) kết hợp với khảo sát thực tế, danh mục dự án này có tính chất kỹ thuật đa dạng, phân bổ rộng trên nhiều địa bàn và được phân loại chi tiết theo 3 tiêu chí chính như sau:
+
+##### A. Phân loại theo phân nhóm quy mô dự án (Nhóm A, B, C)
+* **Dự án Nhóm A (Dự án quy mô rất lớn, tổng mức đầu tư từ 1.000 tỷ đồng trở lên hoặc dự án đô thị lớn):**
+  * `DA09`: Dự án Dây chuyền 02 Nhà máy Xi măng Bình Phước (NMXMBP).
+  * `DA07`: Dự án Khu đô thị xi măng Bình Phước.
+  * `DA11`: Dự án di dời tổng thể Trạm nghiền Thủ Đức.
+  * `DA15`: Dự án khai thác mỏ đá vôi Thanh Lương (mỏ nguyên liệu chính của NMXMBP).
+* **Dự án Nhóm B (Dự án quy mô trung bình, tổng mức đầu tư từ 120 tỷ đến dưới 1.000 tỷ đồng; đối với năng lượng là từ 80 tỷ đến dưới 1.500 tỷ đồng):**
+  * `DA08`: Dự án BOT Phú Hữu (Nguyễn Duy Trinh nối KCN Phú Hữu) — Tổng mức đầu tư khoảng 461 tỷ đồng.
+  * `DA10`: Dự án Nhà máy phát điện tận dụng nhiệt thải thừa từ NMXMBP — Tổng mức đầu tư khoảng 315 tỷ đồng.
+  * `DA45`: Dự án tận dụng nhiệt thải để phát điện - lò nung số 2 Nhà máy Xi măng Kiên Lương (NMXMKL) — Tổng mức đầu tư khoảng 266,67 tỷ đồng.
+  * `DA39`: Dự án nâng cao năng lực nghiền xi măng tại NMXMKL (lắp đặt máy nghiền đứng/con lăn công suất lớn).
+  * `DA44`: Dự án nâng cao năng lực nghiền xi măng tại Trạm nghiền Long An (TNLA).
+  * `DA16`: Dự án cảng xuất Clinker mới (KL 11) tại Kiên Lương.
+  * `DA17`, `DA18`, `DA19`, `DA24`: Các dự án đầu tư công trình khai thác mỏ nguyên liệu quy mô lớn (mỏ đá vôi núi Khỏe Lá, núi Trầu, núi Còm, núi Nai, mỏ sét Tà Thiết).
+  * `DA50`: Dự án đầu tư dây chuyền đồng xử lý chất thải nguy hại trong sản xuất xi măng tại NMXMBP.
+* **Dự án Nhóm C (Dự án quy mô nhỏ, sửa chữa cải tạo thiết bị hoặc phụ trợ, tổng mức đầu tư dưới 80/120 tỷ đồng):**
+  * Gồm 15 dự án còn lại: Đền bù giải tỏa quy mô nhỏ (`DA05` khoảng 21,7 tỷ đồng); các công trình phụ trợ, an toàn nhà máy, chống ngập mỏ, chống sạt kè chắn (`DA26`, `DA28`, `DA36`); các dự án nâng cấp năng lực cảng nhập, cảng xuất, trạm thu phí ETC, mái che, silo chứa trung gian (`DA12`, `DA25`, `DA31`, `DA37`, `DA40`, `DA43`, `DA46`, `DA47`); cải tạo lọc bụi điện, quan trắc môi trường và kiến thiết mỏ nhỏ (`DA34`, `DA35`, `DA48`, `DA49`, `DA51`).
+
+##### B. Phân loại theo lĩnh vực kỹ thuật đầu tư
+| Nhóm lĩnh vực | Mã dự án | Tên dự án chi tiết | Địa bàn triển khai | Phân nhóm |
+|---|---|---|---|---|
+| **I. Dây chuyền & Thiết bị công nghệ chính** | DA09<br>DA39<br>DA44<br>DA49 | - Dự án Dây chuyền 02 NMBP<br>- Dự án nâng cao năng lực nghiền xi măng tại NMXMKL<br>- Dự án nâng cao năng lực nghiền xi măng tại TNLA<br>- Dự án chuyển đổi vận chuyển bột liệu bằng bình bơm sang gầu nâng DC 1 NMKL | Bình Phước<br>Kiên Lương<br>Long An<br>Kiên Lương | Nhóm A<br>Nhóm B<br>Nhóm B<br>Nhóm C |
+| **II. Khai thác mỏ & Kiến thiết cơ bản** | DA15<br>DA17<br>DA18<br>DA19<br>DA24<br>DA34 | - Dự án khai thác mỏ đá vôi Thanh Lương<br>- Dự án Đầu tư XDCT mỏ đá vôi núi Khỏe Lá<br>- Dự án khai thác mỏ đá vôi núi Trầu, núi Còm, Châu Hàng<br>- Dự án Đầu tư XDCT khai thác mỏ đá vôi núi Nai<br>- Dự án Đầu tư rộng và nâng công suất khai thác mỏ đá vôi, sét, laterit Tà Thiết<br>- Dự án Kiến thiết cơ bản mỏ sét lô 5 NM XMKL | Bình Phước<br>Kiên Lương<br>Kiên Lương<br>Kiên Lương<br>Bình Phước<br>Kiên Lương | Nhóm A<br>Nhóm B<br>Nhóm B<br>Nhóm B<br>Nhóm B<br>Nhóm C |
+| **III. Năng lượng xanh & Bảo vệ môi trường** | DA10<br>DA35<br>DA45<br>DA48<br>DA50<br>DA51 | - Dự án Nhà máy phát điện tận dụng nhiệt thải thừa từ NMXMBP<br>- Dự án thiết bị quan trắc online toàn Vicem Hải Tiên<br>- Dự án tận dụng nhiệt thải để phát điện - lò nung số 2 NMXMKL<br>- Kho chứa rác làm nhiên liệu thay thế - NMXMKL<br>- Dự án Đầu tư dây chuyền đồng xử lý chất thải nguy hại trong sản xuất xi măng tại NMXMBP<br>- Dự án cải tạo lọc bụi điện KM01 dây chuyền 1 - NMXMKL | Bình Phước<br>Toàn Công ty<br>Kiên Lương<br>Kiên Lương<br>Bình Phước<br>Kiên Lương | Nhóm B<br>Nhóm C<br>Nhóm B<br>Nhóm C<br>Nhóm B<br>Nhóm C |
+| **IV. Cảng biển, Logistics & Kho bãi** | DA08<br>DA11<br>DA12<br>DA16<br>DA25<br>DA31<br>DA37<br>DA40<br>DA43<br>DA46<br>DA47 | - Dự án BOT Phú Hữu<br>- Dự án di dời tổng thể Trạm nghiền Thủ Đức<br>- Dự án Cải tạo nâng công suất xuất thủy và hệ thống xuất XM đóng bao tại TNPH<br>- Dự án cảng xuất Clinker mới (KL 11)<br>- DA Nâng cấp cảng nhập liệu TNLA<br>- Dự án Cải tạo Nâng công suất xuất thủy TNLA<br>- Dự án Nhà bao che cảng xuất xi măng Trạm nghiền Long An<br>- Dự án nâng cấp tái trang cầu bắc qua kênh Ba Hòn vào NMXM Kiên Lương<br>- Hệ thống mái che bến xuất NMXM Kiên Lương<br>- Dự án Silo Trạm nghiền Cam Ranh<br>- Đầu tư nâng cấp 06 làn hệ thống thu phí điện tử tự động không dừng (ETC) | Phú Hữu<br>Thủ Đức<br>Phú Hữu<br>Kiên Lương<br>Long An<br>Long An<br>Long An<br>Kiên Lương<br>Kiên Lương<br>Cam Ranh<br>Phú Hữu | Nhóm B<br>Nhóm A<br>Nhóm C<br>Nhóm B<br>Nhóm C<br>Nhóm C<br>Nhóm C<br>Nhóm C<br>Nhóm C<br>Nhóm C<br>Nhóm C |
+| **V. Đền bù GPMB & Đô thị** | DA05<br>DA07 | - Dự án đền bù GPMB khu vực vùng đệm NMXMBP<br>- Dự án Khu đô thị xi măng Bình Phước | Bình Phước<br>Bình Phước | Nhóm C<br>Nhóm A |
+| **VI. Chống ngập & An toàn hạ tầng** | DA26<br>DA28<br>DA36 | - Dự án chống sạt bờ kè phía sau nhà văn phòng TNPH<br>- Dự án Xử lý hang khe Krasf chống nước vào moong khai thác Tà Thiết NMXMBP<br>- Dự án Đầu tư XD tuyến mương điều tiết nước suối Prek Krea chống ngập | Phú Hữu<br>Bình Phước<br>Kiên Lương | Nhóm C<br>Nhóm C<br>Nhóm C |
+
+##### C. Phân loại theo địa bàn sản xuất
+* **Nhà máy Xi măng Bình Phước (NMXMBP - 8 dự án):** Tập trung vào việc giải phóng mặt bằng vùng đệm (`DA05`), phát triển đô thị (`DA07`), xây dựng lắp đặt dây chuyền chính clinker (`DA09`), hệ thống phát điện tận dụng nhiệt thừa khí thải (`DA10`), khai thác mỏ đá vôi Thanh Lương & mỏ sét Tà Thiết (`DA15`, `DA24`), chống ngập mỏ khai thác (`DA28`) và đầu tư công nghệ đồng xử lý chất thải nguy hại bảo vệ môi trường (`DA50`).
+* **Nhà máy Xi măng Kiên Lương (NMXMKL - 11 dự án):** Tập trung sâu vào hạ tầng khai thác và kiến thiết các mỏ nguyên liệu phục vụ sản xuất lâu dài (`DA17`, `DA18`, `DA19`, `DA34`), nâng cao năng lực nghiền xi măng (`DA39`), tận dụng nhiệt khí thải phát điện lò nung 2 (`DA45`), dùng rác thải thay thế nhiên liệu đốt (`DA48`), nâng cấp cải tạo thiết bị vận chuyển và lọc bụi (`DA49`, `DA51`), cùng hệ thống logistics cảng bến thủy (`DA16`, `DA40`, `DA43`, `DA36`).
+* **Trạm nghiền Phú Hữu & Thủ Đức (TNPH - 4 dự án):** Dự án giao thông BOT đường Phú Hữu (`DA08`), di dời trạm Thủ Đức (`DA11`), cải tạo tăng công suất đóng bao và xuất thủy (`DA12`) và xây dựng bờ kè bảo vệ văn phòng trạm (`DA26`).
+* **Trạm nghiền Long An (TNLA - 4 dự án):** Cải tạo nâng cấp cảng nhập liệu (`DA25`), công suất xuất thủy đường sông (`DA31`), lắp đặt mái che/bao che cảng (`DA37`) và nâng cao năng lực nghiền xi măng (`DA44`).
+* **Trạm nghiền Cam Ranh (TNCR - 1 dự án):** Đầu tư silo chứa xi măng phục vụ thị trường miền Trung (`DA46`).
+* **Hệ thống dùng chung toàn Công ty (2 dự án):** Lắp đặt hệ thống thiết bị quan trắc tự động online truyền dữ liệu về Sở TN&MT (`DA35`) và nâng cấp trạm thu phí không dừng ETC cho BOT Phú Hữu (`DA47`).
 * **Công cụ quy trình vận hành:** Vận hành theo bộ 6 quy trình ban hành năm 2024 (QT 34, 35, 36, 37, 16, 161) gắn liền với hệ thống biểu mẫu văn bản hành chính tờ trình dày đặc (Mã BM114-02...).
 * **Các nút thắt, điểm nghẽn hiện trạng cần tháo gỡ:**
   * *Cơ chế phê duyệt tuần tự rườm rà:* Luồng hồ sơ trình duyệt đi qua quá nhiều cấp (KHTH, PKTH, Giám đốc Ban QLDA, Tổ Thẩm định dự án, Nhóm Người đại diện phần vốn của Tổng công ty VICEM, xin ý kiến Tổng công ty mẹ rồi mới trình Hội đồng Quản trị phê duyệt). Hạn mức tự quyết của Giám đốc Ban QLDA quá thấp dẫn đến kéo dài thời gian xử lý thủ tục, không thể đáp ứng quy định SLA phản hồi 07 ngày làm việc theo pháp luật hợp đồng mới.
