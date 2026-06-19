@@ -15,14 +15,14 @@
 
 *   **Tư vấn trưởng (TVT) - Trưởng đoàn:**
     *   *Trách nhiệm:* Chủ trì phiên Khai mạc, Phiên 1 (Ban Giám đốc), Phiên 2 (Kế hoạch), Phiên 3 (Đấu thầu & Hợp đồng) và Phiên 7 (Tổng kết).
-    *   *Nghiệp vụ phụ trách:* Định hướng chiến lược, mô hình tổ chức Ban QLDA, phân cấp ủy quyền, ma trận phân định trách nhiệm, quy trình đấu thầu, thực hiện hợp đồng và các khoảng cách pháp lý theo Luật Xây dựng 135/2025 và Luật Đấu thầu 22/2023.
+    *   *Nghiệp vụ phụ trách:* Định hướng chiến lược, mô hình tổ chức Ban QLDA, phân cấp ủy quyền, ma trận phân định trách nhiệm, quy trình đấu thầu, thực hiện hợp đồng và các khoảng cách pháp lý theo quy định pháp luật xây dựng hiện hành và Luật Đấu thầu 22/2023.
 *   **Chuyên viên tư vấn (CV) - Thành viên đoàn (kiêm Thư ký):**
     *   *Trách nhiệm:* Chủ trì Phiên 4 (Tài chính & Thanh quyết toán), Phiên 5 (Kỹ thuật & Vận hành), Phiên 6 (Công nghệ & Số hóa). Thực hiện ghi chép biên bản chi tiết tất cả 7 phiên, ghi âm (sau khi được sự đồng ý) và thu hồi tài liệu minh chứng.
-    *   *Nghiệp vụ phụ trách:* Quản lý chất lượng thiết kế/dự toán, nghiệm thu giám sát thi công, quy trình bàn giao - bảo hành - bảo trì, Mô hình thông tin công trình (BIM), Môi trường dữ liệu chung (CDE), tạm ứng, thanh quyết toán (Nghị định 193/2026/NĐ-CP) và số hóa/lưu trữ tài liệu (QT 161).
+    *   *Nghiệp vụ phụ trách:* Quản lý chất lượng thiết kế/dự toán, nghiệm thu giám sát thi công, quy trình bàn giao - bảo hành - bảo trì, Mô hình thông tin công trình (BIM), Môi trường dữ liệu chung (CDE), tạm ứng, thanh quyết toán và số hóa/lưu trữ tài liệu (QT 161).
 
 ### 2. Danh mục tài liệu Đoàn khảo sát cần mang theo
 *   Bản in 02 bộ Quy trình hiện hành của VICEM Hà Tiên (QT 34, 35, 36, 37, 16, 17, 18, 161).
-*   Bản đối chiếu sơ bộ Luật Xây dựng 135/2025 và Luật Xây dựng 2014 để tra cứu nhanh.
+*   Bản đối chiếu sơ bộ Luật Xây dựng hiện hành để tra cứu nhanh.
 *   Biên bản bàn giao tài liệu (mẫu trống) để ký nhận khi thu thập hồ sơ thực tế.
 *   Sổ tay ghi chép và các thiết bị hỗ trợ ghi âm.
 
@@ -62,7 +62,7 @@ flowchart TD
 *   **Mục tiêu:** Thống nhất mục tiêu, kỳ vọng, phương pháp làm việc và lịch trình chi tiết của đợt khảo sát 2 ngày.
 
 ##### Kịch bản điều phối (30 phút):
-1.  **08:30 – 08:40 (10 phút):** Giám đốc Ban QLDA VICEM Hà Tiên tuyên bố lý do, giới thiệu thành phần tham dự phía VICEM và phát biểu chỉ đạo về tầm quan trọng của đợt khảo sát (đồng bộ hệ thống quy trình trước 01/07/2026).
+1.  **08:30 – 08:40 (10 phút):** Giám đốc Ban QLDA VICEM Hà Tiên tuyên bố lý do, giới thiệu thành phần tham dự phía VICEM và phát biểu chỉ đạo về tầm quan trọng của đợt khảo sát (đồng bộ hệ thống quy trình quản lý dự án).
 2.  **08:40 – 08:50 (10 phút):** TVT giới thiệu đoàn tư vấn, trình bày ngắn gọn phương pháp luận *"Từ pháp lý đến thực tiễn — Từ thực tiễn đến quy trình"* và 3 đầu ra trọng tâm của dự án.
 3.  **08:50 – 09:00 (10 phút):** Thống nhất cách thức phối hợp ghi chép, cung cấp tài liệu minh chứng và chụp ảnh lưu niệm khởi động đợt làm việc.
 
@@ -154,7 +154,7 @@ flowchart TD
     *   *Câu hỏi 3:* Kế hoạch Tổng hợp soạn thảo → Giám đốc Ban QLDA ký tắt → Tổng Giám đốc ký → Hội đồng quản trị phê duyệt: chuỗi phê duyệt này có đúng cho tất cả loại quyết định không, hay có trường hợp ngoại lệ/ủy quyền?
     *   *Câu hỏi 4:* Vai trò của Người đại diện vốn trong quy trình: trường hợp nào phải trình Người đại diện vốn? Có vướng mắc gì về thời gian chờ phê duyệt?
     *   *Câu hỏi 5:* Quy trình phê duyệt dự án hiện tại đang gặp vướng mắc lớn nhất ở bước nào? (Từ khâu lập chủ trương, thẩm định đến phê duyệt quyết định đầu tư).
-        *   *Đào sâu:* Quy định nội bộ hiện hành về phân cấp thẩm quyền phê duyệt dự án đầu tư xây dựng (giữa Hội đồng quản trị và Ban Giám đốc) đang được phân định dựa trên những tiêu chí nào?
+        *   *Đào sâu:* Quy định nội bộ hiện hành về phân cấp thẩm quyền phê duyệt dự án đầu tư xây dựng (giữa Hội đồng quản trị và Ban Giám đốc) đang được phân định dựa trên những tiêu chí nào? Trong quy trình lập và thẩm định chủ trương đầu tư, làm thế nào để phân định rõ trách nhiệm giữa Tổ Thẩm định nội bộ của VICEM Hà Tiên với các Ban chuyên môn của Tổng công ty VICEM mẹ nhằm rút ngắn thời gian phản hồi (tránh tình trạng thẩm định trùng lặp nội dung)?
     *   *Câu hỏi 6:* Tổ Thẩm định dự án thẩm định những nội dung gì? (Báo cáo đề xuất chủ trương đầu tư, Báo cáo nghiên cứu khả thi, dự toán, kế hoạch lựa chọn nhà thầu, hồ sơ mời thầu — tất cả hay chỉ một số?). Quy trình thẩm định nội bộ: nhận hồ sơ → thẩm định → báo cáo mất thời gian trung bình bao lâu? Tổ Thẩm định có thành viên cố định hay thay đổi theo dự án?
 2.  **Khối 2B: Quy trình mới — Giám sát, đánh giá và báo cáo dự án định kỳ (11:35 - 11:55):**
     *   *Câu hỏi 7:* Hiện tại, báo cáo tình hình dự án gửi cho Tổng Giám đốc/Hội đồng quản trị/Tổng công ty VICEM theo cơ chế nào? Biểu mẫu? Tần suất?
@@ -194,14 +194,14 @@ flowchart TD
     *   *Câu hỏi 1:* Các hình thức lựa chọn nhà thầu đang sử dụng phổ biến nhất? Tỷ lệ đấu thầu rộng rãi / chỉ định thầu / chào hàng cạnh tranh?
     *   *Câu hỏi 2:* Quy trình lập kế hoạch lựa chọn nhà thầu → Thẩm định (Tổ Thẩm định) → Phê duyệt: thời gian trung bình bao lâu? Điểm nghẽn ở đâu?
     *   *Câu hỏi 3:* **Chuyển giao Tổ Chuyên gia**: Hiện tại Tổ Chuyên gia đang độc lập cấp Công ty. Khi chuyển giao trực thuộc quản lý trực tiếp của Ban QLDA, quy trình thành lập, bổ nhiệm thành viên và cơ chế vận hành độc lập/giám sát sẽ thay đổi như thế nào?
-        *   *Đào sâu:* Làm sao để Giám đốc Ban QLDA vừa là người quản lý trực tiếp hành chính của Tổ Chuyên gia, vừa là người trình duyệt kết quả lựa chọn nhà thầu lên Tổng Giám đốc mà không vi phạm nguyên tắc "vừa đá bóng vừa thổi còi"?
+        *   *Đào sâu:* Làm sao để Giám đốc Ban QLDA vừa là người quản lý trực tiếp hành chính của Tổ Chuyên gia, vừa là người trình duyệt kết quả lựa chọn nhà thầu lên Tổng Giám đốc mà không vi phạm nguyên tắc "vừa đá bóng vừa thổi còi" nhưng vẫn bảo đảm tiến độ lựa chọn nhà thầu? Cơ chế nào để giám sát tính độc lập, khách quan của Tổ Chuyên gia?
     *   *Câu hỏi 4:* Tổ Chuyên gia được thành lập theo Quyết định của ai? Tiêu chí lựa chọn thành viên? Có khó khăn gì về nhân sự/năng lực của Tổ Chuyên gia khi đánh giá các gói thầu công nghệ/mô hình thông tin công trình phức tạp?
     *   *Câu hỏi 5:* Quy trình đánh giá: Hồ sơ đề xuất kỹ thuật qua mạng → Hồ sơ đề xuất tài chính qua mạng → Xếp hạng — có khó khăn gì? Đã sử dụng hệ thống mạng đấu thầu quốc gia ở mức nào? Gặp vấn đề gì?
     *   *Câu hỏi 6:* Công tác lựa chọn nhà thầu hiện nay đang gặp vướng mắc ở các khâu nào (như lập hồ sơ mời thầu, đăng tải thông tin, hay chấm thầu)?
 2.  **Khối 3B: Quy trình 37 & Pháp lý hợp đồng (Kiểm tra Pháp chế) (14:35 - 15:10):**
     *   *Câu hỏi 7:* Sau khi ký hợp đồng, quy trình giám sát thực hiện hợp đồng diễn ra như thế nào? Ai theo dõi tiến độ, ai xác nhận khối lượng?
     *   *Câu hỏi 8:* Khi phát sinh (thay đổi thiết kế, điều chỉnh giá, gia hạn), quy trình xử lý như thế nào? Ai có thẩm quyền quyết định?
-        *   *Đào sâu:* Quy trình xử lý phát sinh vượt dự toán gói thầu nhưng không vượt tổng mức đầu tư hiện tại đang chạy như thế nào? Mất bao nhiêu lâu để phê duyệt một phụ lục phát sinh?
+        *   *Đào sâu:* Quy trình xử lý phát sinh vượt dự toán gói thầu nhưng không vượt tổng mức đầu tư hiện tại đang chạy như thế nào? Mất bao nhiêu lâu để phê duyệt một phụ lục phát sinh? Đối với các gói thầu áp dụng hình thức hợp đồng trọn gói hoặc đơn giá cố định, quy trình xử lý phát sinh/điều chỉnh do nguyên nhân bất khả kháng hoặc biến động giá cực đoan hiện đang gặp những rào cản pháp lý nào từ quy chế nội bộ? Đề xuất cơ chế ủy quyền xử lý nhanh tại hiện trường?
     *   *Câu hỏi 9:* Trường hợp phải điều chỉnh hợp đồng (phụ lục): trình tự, ai duyệt, thời gian xử lý trung bình?
     *   *Câu hỏi 10:* Phòng Kiểm tra Pháp chế tham gia vào bước nào của quy trình hợp đồng? Rà soát dự thảo hợp đồng? Thương thảo? Sự phối hợp giữa phòng Kiểm tra Pháp chế (Công ty) và Ban QLDA có gặp vướng mắc về mặt thời gian?
     *   *Câu hỏi 11:* Loại hợp đồng xây dựng phổ biến nhất tại VICEM Hà Tiên? (trọn gói, đơn giá cố định, đơn giá điều chỉnh?). Vấn đề pháp lý phát sinh nhiều nhất trong hợp đồng đầu tư xây dựng? (tranh chấp, phạt vi phạm, điều chỉnh giá?).
@@ -240,11 +240,13 @@ flowchart TD
     *   *Câu hỏi 5:* Hồ sơ hoàn công: phòng Kỹ thuật xác nhận → Kế toán Dự án tổng hợp → phòng Tài chính - Kế toán Công ty kiểm tra — đúng không? Có vướng mắc gì không?
 2.  **Khối 4B: Quy trình 18 — Quyết toán dự án hoàn thành (16:10 - 16:45):**
     *   *Câu hỏi 6:* Quy trình quyết toán dự án hoàn thành hiện tại: trình tự cụ thể, hồ sơ gồm gì? Ai lập báo cáo quyết toán? Kế toán Dự án lập hay thuê kiểm toán độc lập?
+        *   *Đào sâu:* VICEM Hà Tiên đã xây dựng quy chế phối hợp hoặc hướng dẫn áp dụng cơ chế quyết toán đơn phương đối với các nhà thầu chây ỳ chưa? Trở ngại lớn nhất về mặt chứng từ khi tự thực hiện quyết toán đơn phương là gì?
     *   *Câu hỏi 7:* Ai thẩm tra/phê duyệt quyết toán? Tổng Giám đốc hay Hội đồng quản trị? Ngưỡng phân cấp phê duyệt? Thời gian quyết toán trung bình bao lâu? Vướng mắc phổ biến nhất?
     *   *Câu hỏi 8:* Dự án nào gần nhất đã quyết toán xong? Dự án nào đang chờ quyết toán chậm trễ và lý do tại sao?
     *   *Câu hỏi 9:* Thực tế tại VICEM Hà Tiên đã có trường hợp nào thực hiện quyết toán dự án thành phần, tiểu dự án hoặc hạng mục công trình độc lập chưa? Quy trình thực hiện như thế nào?
     *   *Câu hỏi 10:* Hồ sơ trình thẩm tra quyết toán: có đầy đủ quyết toán A-B (Bảng quyết toán) + thanh lý hợp đồng + Biên bản nghiệm thu hoàn thành + báo cáo kiểm toán không?
     *   *Câu hỏi 11:* Thời gian thực tế để lập hồ sơ quyết toán dự án hoàn thành từ lúc bàn giao đưa vào sử dụng thường mất bao lâu? Có gặp vướng mắc kéo dài ở khâu nào nhất?
+        *   *Đào sâu:* Để đáp ứng thời hạn quyết toán nghiêm ngặt theo quy định hiện hành, cần thiết lập cam kết SLA (Service Level Agreement) về thời gian luân chuyển và kiểm tra hồ sơ quyết toán giữa Kế toán Dự án (Ban QLDA) và Phòng TCKT Công ty như thế nào?
     *   *Câu hỏi 12:* Đã gặp trường hợp nhà thầu không hợp tác hoặc chậm trễ quyết toán hợp đồng chưa? Cách thức xử lý hiện tại của công ty đối với các trường hợp này như thế nào?
 3.  **Khối 4C (TC) — Tiêu chí: Chấm điểm 3 phương án — góc độ tài chính & kiểm toán (16:45 - 16:55):**
     *   CV phát phiếu 4 tiêu chí nhóm **Tài chính & Kiểm toán** (tiêu chí liên quan đến cơ chế tài chính, kiểm soát chi phí, tính minh bạch trong từng mô hình Ban QLDA). Thu phiếu trước khi kết thúc ngày 1.
@@ -282,9 +284,11 @@ flowchart TD
 2.  **Khối 5B: Quy trình mới — Bàn giao, bảo hành và bảo trì (09:10 - 09:40):**
     *   *Câu hỏi 5 (Về Phối hợp bàn giao tài sản):* Điểm nghẽn lớn nhất trong việc phối hợp bàn giao tài sản giữa Ban QLDA và đơn vị thụ hưởng (Nhà máy/Trạm nghiền) là gì? (Ví dụ: bàn giao thực tế nhanh để kịp sản xuất nhưng hồ sơ pháp lý, quyết toán và hạch toán tăng tài sản bị treo lâu). Giải pháp xử lý "nghiệm thu có điều kiện" thực tế hiện nay đang chạy thế nào để phòng ngừa rủi ro pháp lý?
     *   *Câu hỏi 6 (Về Khoảng trống Bảo trì công trình xây dựng):* VICEM Hà Tiên đã có quy trình bảo trì thiết bị công nghệ rất tốt, nhưng quy trình bảo trì cho phần xây dựng (như silo xi măng, tháp trao đổi nhiệt, nhà xưởng) hiện đang gặp khó khăn gì (nhân sự chuyên môn, định mức chi phí, lập kế hoạch bảo trì xây dựng hàng năm)?
+        *   *Đào sâu:* Hiện tại trong hợp đồng thiết kế, Công ty đã đưa điều khoản bắt buộc nhà thầu thiết kế lập Quy trình bảo trì cho hạng mục công trình xây dựng trước khi đưa vào sử dụng chưa? Gặp khó khăn gì trong việc thẩm định và phê duyệt chi phí lập/phê duyệt quy trình bảo trì này?
     *   *Câu hỏi 7 (Về Đánh giá an toàn chịu lực định kỳ):* Các công trình công nghiệp quy mô lớn (silo, tháp sấy, ống khói) đã bao giờ được tổ chức đánh giá an toàn chịu lực định kỳ chưa? Đơn vị gặp khó khăn gì về mặt thủ tục và kinh phí khi thực hiện đánh giá này?
 3.  **Khối 5C: Quy trình mới — An toàn lao động và môi trường thi công (09:40 - 09:55):**
     *   *Câu hỏi 8 (Về Nhân sự quản lý an toàn):* Hiện cán bộ giám sát Ban QLDA đang kiêm nhiệm quản lý an toàn. Khi quy chế mới yêu cầu phải bố trí nhân sự quản lý an toàn có đào tạo chuyên môn phù hợp, Ban QLDA dự kiến sẽ bố trí và phân bổ trách nhiệm thế nào để đáp ứng thực tế mà không phình bộ máy?
+        *   *Đào sâu:* Làm thế nào để giám sát chứng chỉ và năng lực chuyên môn về ATLĐ của bộ phận an toàn thuộc nhà thầu thi công một cách thực chất, tránh việc đối phó hồ sơ giấy tờ trên công trường?
     *   *Câu hỏi 9 (Về Biện pháp an toàn & Môi trường của nhà thầu):* Khó khăn lớn nhất của Ban QLDA trong việc giám sát, chế tài nhà thầu thực hiện biện pháp bảo vệ môi trường, chống bụi mịn và tiếng ồn trong khuôn viên nhà máy đang vận hành là gì? Chế tài phạt hiện tại có đủ răn đe không?
 4.  **Khối 5D (TC) — Tiêu chí: Chấm điểm 3 phương án — góc độ nhân sự kỹ thuật (09:55 - 10:05):**
     *   CV phát phiếu 5 tiêu chí nhóm **Nhân sự Kỹ thuật & Vận hành** (tiêu chí liên quan đến năng lực chuyên môn kỹ thuật, cơ chế giám sát chất lượng trong từng mô hình Ban QLDA). Thu phiếu trước giải lao.
@@ -314,7 +318,9 @@ flowchart TD
 1.  **Khối 6A: Mô hình thông tin công trình (BIM) & Môi trường dữ liệu chung (CDE) (10:25 - 11:10):**
     *   *Câu hỏi 1:* VICEM Hà Tiên đã có dự án nào yêu cầu nhà thầu nộp mô hình thông tin công trình (BIM) chưa? Đã từng đưa yêu cầu này vào hồ sơ mời thầu/hồ sơ yêu cầu chưa?
     *   *Câu hỏi 2:* Nền tảng chia sẻ tài liệu dự án hiện tại với nhà thầu là gì (Ví dụ: Email, Zalo, Google Drive, hay hệ thống CDE chuyên nghiệp như Autodesk Construction Cloud, Trimble Connect)? Nhân sự phòng Kỹ thuật/CNTT có ai biết sử dụng các phần mềm chuyên dụng như Revit, Navisworks hoặc các trình xem mô hình không?
+        *   *Đào sâu:* Hệ thống CDE (Common Data Environment) dự kiến đầu tư có hỗ trợ định dạng chuẩn mở IFC 4.0 để chia sẻ thông tin đa nền tảng không? Phương án cấp quyền truy cập và bảo mật dữ liệu dự án cho các nhà thầu bên ngoài trên hệ thống CDE được định hướng thế nào?
     *   *Câu hỏi 3:* Đơn vị có năng lực thẩm tra mô hình thông tin công trình (kiểm tra phát hiện xung đột, kiểm tra tuân thủ thiết kế) không? Hay cần thuê tư vấn chuyên nghiệp độc lập?
+        *   *Đào sâu:* Quy trình thẩm tra mô hình BIM trước khi phê duyệt thiết kế bản vẽ thi công sẽ được phân công phối hợp giữa phòng Kỹ thuật (thẩm định chuyên môn) và phòng CNTT (quản trị hệ thống dữ liệu) như thế nào?
     *   *Câu hỏi 4:* Hiện trạng hạ tầng công nghệ thông tin và năng lực phần mềm của Công ty hiện nay có thể hỗ trợ ở mức độ nào cho việc tiếp nhận, lưu trữ và khai thác các tệp tin mô hình thông tin công trình (BIM)?
 2.  **Khối 6B: Quy trình số hóa và Lưu trữ hồ sơ hoàn thành (Quy trình 161) (11:10 - 11:45):**
     *   *Câu hỏi 5:* Hệ thống lưu trữ tài liệu dự án hiện tại (Quy trình 161): máy chủ nội bộ, thiết bị lưu trữ mạng (NAS), lưu trữ đám mây, hay ổ cứng cá nhân? Cấu trúc thư mục lưu trữ: theo Quy trình 161 hay mỗi phòng tự quản lý? Tỷ lệ tài liệu đã số hóa so với tài liệu giấy hiện nay đạt khoảng bao nhiêu %?
@@ -347,13 +353,13 @@ flowchart TD
 ##### Nội dung thảo luận chi tiết:
 1.  **Trình bày sơ bộ (14:00 - 14:15):** TVT đại diện CIC trình bày tóm tắt kết quả khảo sát trực tuyến trước đó kết hợp với các phát hiện chính thu được sau 6 phiên phỏng vấn sâu trực tiếp tại thực địa.
 2.  **Xác nhận các khoảng cách pháp lý chính (14:15 - 14:40):**
-    *   Đồng thuận về các điểm "hổng" pháp lý lớn nhất cần ưu tiên xử lý trước mốc 01/07/2026 (Đặc biệt là quy trình thẩm định thiết kế/dự toán mới, quy trình nghiệm thu bàn giao và lập quy trình bảo trì bắt buộc).
+    *   Đồng thuận về các điểm "hổng" pháp lý lớn nhất cần ưu tiên xử lý trong hệ thống quy trình quản lý dự án hiện tại (Đặc biệt là quy trình thẩm định thiết kế/dự toán, quy trình nghiệm thu bàn giao và bảo trì).
 3.  **Thống nhất định hướng mô hình Ban QLDA (14:40 - 15:05):**
     *   Thống nhất nguyên tắc xây dựng Ma trận phân định trách nhiệm mới: làm rõ thẩm quyền của Giám đốc Ban QLDA để tăng tính chủ động, giảm tải hồ sơ trình duyệt không cần thiết lên Ban Giám đốc Công ty.
     *   Thống nhất cơ chế hoạt động của Tổ Chuyên gia đấu thầu sau khi chuyển giao quản lý hành chính về Ban QLDA.
 4.  **Xác nhận danh mục 12 quy trình & Thứ tự ưu tiên soạn thảo (15:05 - 15:25):**
-    *   *Ưu tiên 1 (Soạn thảo ngay):* Quy trình 34 (Tổng thể & Phân cấp thẩm quyền mới), Quy trình 35 & 36 (Đấu thầu và Quản lý thiết kế/dự toán theo luật mới), Quy trình bàn giao/bảo hành/bảo trì.
-    *   *Ưu tiên 2 (Hoàn thiện tiếp theo):* Quy trình 37 & 16 (Quản lý hợp đồng & chất lượng thi công), Quy trình 17 & 18 (Thanh quyết toán hợp đồng & quyết toán dự án hoàn thành theo Nghị định 193/2026).
+    *   *Ưu tiên 1 (Soạn thảo ngay):* Quy trình 34 (Tổng thể & Phân cấp thẩm quyền mới), Quy trình 35 & 36 (Đấu thầu và Quản lý thiết kế/dự toán mới), Quy trình bàn giao/bảo hành/bảo trì.
+    *   *Ưu tiên 2 (Hoàn thiện tiếp theo):* Quy trình 37 & 16 (Quản lý hợp đồng & chất lượng thi công), Quy trình 17 & 18 (Thanh quyết toán hợp đồng & quyết toán dự án hoàn thành theo quy định hiện hành).
     *   *Ưu tiên 3 (Bổ sung sau):* Quy trình BIM/CDE, Quy trình an toàn lao động & môi trường, Quy trình giám sát đánh giá định kỳ, Quy trình lưu trữ số hóa 161.
 5.  **Ký kết biên bản làm việc (15:25 - 15:30):** CV đọc nhanh dự thảo Biên bản làm việc thực địa sơ bộ. Hai bên thống nhất ký biên bản, xác định các đầu mối cung cấp hồ sơ bổ sung và lộ trình gửi dự thảo sản phẩm D1.
 
@@ -396,7 +402,7 @@ Người thực hiện phỏng vấn/ghi chép: ........................
    ...........................................................................
 3. Ý kiến đề xuất của đơn vị về hướng cải tiến quy trình:
    ...........................................................................
-4. Ghi chú pháp lý liên quan (Luật Xây dựng 135/2025, Nghị định 2026):
+4. Ghi chú pháp lý liên quan (Các quy định pháp luật hiện hành):
    ...........................................................................
 5. Danh mục tài liệu minh chứng đã nhận/hứa cung cấp bổ sung:
    - [ ] Tài liệu 1: ................. (Đã nhận / Chờ cung cấp trước ngày T+14)

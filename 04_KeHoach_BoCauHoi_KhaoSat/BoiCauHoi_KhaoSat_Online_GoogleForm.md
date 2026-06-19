@@ -382,15 +382,15 @@ ___
 ---
 
 ## PHẦN F: NHẬN THỨC PHÁP LÝ VÀ KỲ VỌNG
-> *Mục đích khảo sát:* Đo lường mức độ nhận biết của cán bộ về những thay đổi cốt lõi của Luật Xây dựng 135/2025 và thu thập kỳ vọng cải tiến đối với hệ thống quy chế mới.
+> *Mục đích khảo sát:* Đo lường nhu cầu đào tạo pháp lý và thu thập kỳ vọng cải tiến đối với hệ thống quy chế nội bộ.
 
-**F1.** Anh/chị đã nắm được các thay đổi của Luật Xây dựng 135/2025 (có hiệu lực từ 01/07/2026)?
-- [ ] Chưa biết
-- [ ] Biết có luật mới nhưng chưa nghiên cứu chi tiết
-- [ ] Đã đọc văn bản nhưng chưa rõ ảnh hưởng đến công việc thực tế
-- [ ] Đã nghiên cứu và hiểu rõ các điểm ảnh hưởng đến chuyên môn
+**F1.** Anh/chị đánh giá như thế nào về sự cần thiết phải thường xuyên cập nhật, tập huấn các quy định pháp luật mới về quản lý dự án xây dựng?
+- [ ] Rất cần thiết, cần có các buổi đào tạo định kỳ
+- [ ] Cần thiết nhưng có thể tự nghiên cứu qua văn bản
+- [ ] Không cần thiết, chỉ cần cập nhật khi quy trình nội bộ thay đổi
+- [ ] Ý kiến khác: ..............................................................................................
 
-**F2.** Theo anh/chị, quy trình nào hiện đang có rủi ro pháp lý cao nhất nếu không cập nhật kịp thời trước ngày 01/07/2026? (chọn tối đa 3)
+**F2.** Theo anh/chị, quy trình nào hiện hành đang có nhiều vướng mắc pháp lý hoặc thủ tục phức tạp nhất cần được rà soát, cải tiến? (chọn tối đa 3)
 - [ ] Quy trình 34 — Quản lý dự án tổng thể
 - [ ] Quy trình 35 — Lựa chọn nhà thầu và ký kết hợp đồng
 - [ ] Quy trình 36 — Quản lý chất lượng giai đoạn chuẩn bị đầu tư
@@ -450,14 +450,14 @@ ___
 - [ ] Chứng từ thanh toán, quyết toán
 - [ ] Khác: ___
 
-**G4.** Để đáp ứng các quy định mới của Luật Xây dựng 135/2025 (quy định về Ban Quản lý dự án chuyên ngành/khu vực), anh/chị đề xuất mô hình tổ chức nào cho Ban Quản lý dự án VICEM Hà Tiên?
+**G4.** Nhằm tối ưu hóa hiệu quả điều hành, anh/chị đề xuất mô hình tổ chức nào cho Ban Quản lý dự án VICEM Hà Tiên?
 - [ ] Mô hình Ban Quản lý dự án chuyên ngành / Ban Quản lý dự án khu vực (có tư cách pháp nhân độc lập, tự chủ tài chính, con dấu riêng)
 - [ ] Mô hình Ban Quản lý dự án trực thuộc Công ty (không có tư cách pháp nhân, là đơn vị phụ thuộc nhưng được phân cấp ủy quyền mạnh mẽ)
 - [ ] Chủ đầu tư trực tiếp quản lý dự án (sử dụng bộ máy chuyên môn của Công ty kiêm nhiệm điều hành dự án)
 - [ ] Khác: ___
 
 **G4.1.** Theo anh/chị, các dự án đầu tư xây dựng tại VICEM Hà Tiên hiện nay chủ yếu được phân loại áp dụng theo nguồn vốn nào để xác định thẩm quyền phê duyệt?
-> *Mục đích khảo sát:* Đánh giá nhận thức về phân loại nguồn vốn đầu tư để đối chiếu với các yêu cầu phân cấp phê duyệt dự án theo Luật Xây dựng 135/2025.
+> *Mục đích khảo sát:* Đánh giá nhận thức về phân loại nguồn vốn đầu tư để đối chiếu với các yêu cầu phân cấp phê duyệt dự án theo quy định pháp luật hiện hành.
 - [ ] Vốn đầu tư công
 - [ ] Vốn nhà nước ngoài đầu tư công
 - [ ] Vốn khác (vốn tự có của doanh nghiệp, vốn vay thương mại...)

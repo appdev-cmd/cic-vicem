@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notebooklm": {
+      "command": "python",
+      "args": ["D:\\01_Projects\\cic-vicem\\mcp-notebooklm\\server.py"]
+    }
+  }
+}
