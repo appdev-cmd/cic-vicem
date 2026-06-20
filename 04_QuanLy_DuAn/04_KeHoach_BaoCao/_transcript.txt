@@ -1,0 +1,840 @@
+[    0.0-    2.0] Đạt 3.000 đồng
+[    2.0-    4.0] Cái cũ nào?
+[    4.0-    6.0] Cái cũ mà tổng tâm có bí
+[    6.0-    8.0] Không có gì cả
+[    8.0-   11.0] Sản phẩm hợp đồng là lưu bộ gì?
+[   11.0-   13.3] Giờ tại thì
+[   13.3-   15.3] Hôm trước thì là
+[   15.3-   17.3] Sản phẩm hợp đồng chỉ có là cái bộ khuyên tìm mới
+[   17.3-   19.3] Vâng
+[   19.3-   21.3] Vâng, vâng, vâng, vâng, vâng, vâng
+[   21.3-   23.3] Vâng, vâng, vâng, vâng, vâng, vâng, vâng
+[   23.3-   25.3] Vâng, vâng, vâng, vâng, vâng, vâng
+[   25.3-   27.3] Vâng, vâng, vâng, vâng, vâng, vâng
+[   27.3-   29.3] Mô hình của đồng bư
+[   29.3-   31.3] Vâng
+[   31.3-   33.4] Đúng không?
+[   33.4-   35.4] Thì bây giờ em đang bổ sung là
+[   35.4-   37.4] Sản phẩm sẽ có một cái là báo cáo
+[   37.4-   39.4] Đề xuất phương án của tổ chức môn bà hội
+[   39.4-   42.2] Vâng
+[   42.2-   59.3] Đề xuất phương án của tổ chức môn bà hội
+[   59.3-   61.3] Vâng
+[   61.3-   63.3] Gãi nổ chộ
+[   63.3-   65.3] Gãi nổ chộ
+[   65.3-   67.3] Gia nồng yên
+[   67.3-   70.0] Dịch phụ thư vấn đề chính
+[   70.0-   72.0] Quy trình
+[   72.0-   74.6] Quy trình
+[   74.6-   76.6] Quy trình
+[   76.6-   79.4] Bắt đầu là chưa có
+[   79.4-   81.4] Cái đề cứng
+[   81.4-   83.4] Cập nhật theo
+[   83.4-   90.3] Cập nhật theo
+[   90.3-   92.3] Cái này không nói rõ ràng
+[   92.3-   94.3] Tại vì ngầm hiểu là mình chọn phương án
+[   94.3-   97.5] Cái
+[   97.5-   99.5] Quốc Anh
+[   99.5-  101.5] Quốc Anh
+[  101.5-  103.5] Đề xuất hợp đồng của em
+[  103.5-  105.5] Bắt đầu nội dung này lại là
+[  105.5-  107.5] Không nội dung thiếu
+[  107.5-  109.5] Thì em đoán quan tâm
+[  109.5-  111.5] Anh theo anh là Hà Tiên đang đẩy ý
+[  111.5-  113.5] Quy mô, cách thức, tổ chức
+[  113.5-  115.5] Triển khai dự án
+[  115.5-  117.5] Bởi vì cái đó hôm qua anh nói
+[  117.5-  119.5] Chưa đạt như khi vọng
+[  119.5-  121.5] Nách đạo muốn cậy
+[  123.5-  125.5] Để tới nó chạy tốt hơn
+[  125.5-  127.5] Anh quan tâm sự lội đúng không
+[  127.5-  129.5] Đấy không có nghĩa là một tiêu chính
+[  129.5-  131.5] Thì mình biết như thế nào để ổn áo
+[  131.5-  133.7] Thấy ổn
+[  133.7-  135.7] Cái này em không soạn khung mô cáo rồi
+[  135.7-  139.7] Vì báo cáo có những mục chính, nhất là đặt vấn đề, hai là các cơ sở pháp lý,
+[  139.7-  142.7] thứ ba là hiện trạng mô hình hoản lý ban hiện tại,
+[  142.7-  148.7] thứ tư là nghiên cứu các mô hình hiện tại ở các công ty có vốn như Visem,
+[  148.7-  153.7] thứ năm là đề xuất phương án, thứ sáu là không tiêu trí đánh giá bản gió sánh,
+[  153.7-  158.9] thứ bảy là khuyến nghị phương án cho Visem và tám là độ tình kẻ khai.
+[  158.9-  164.9] Thì đấy là trong báo cáo mà em dự kiến sẽ gửi Visem sau khi mà đã có đầy đủ dữ liệu để phân tích rồi.
+[  165.9-  175.1] Đấy thì hôm qua anh đã nói rồi, khi mà triển khai nội dung cơ cấu lại phương án tổ chức mô hình của những dự án,
+[  175.1-  177.1] thì mình có 3 phương án đúng không?
+[  177.1-  183.1] Thì em sẽ đưa chi tiết từng phương án, ưu nhật điểm, theo như cái...
+[  183.1-  186.1] Nếu phương án này thì nó như thế nào, phương án kia thì nó như thế nào.
+[  186.1-  187.1] Ừ đúng rồi, đúng rồi.
+[  187.1-  193.1] Và cái chiến lược hạ tiết trong 26, 30, thì triển khai những dự án lớn như vậy,
+[  193.1-  197.1] đến như vậy thì em có một cái...
+[  197.1-  203.1] có một cái gọi là tham mưu để hạ tiết chọn phương nào là tối ưu theo điều kiện hợp tạ.
+[  203.1-  207.1] Em sẽ có cái mục là khuyến nghị phương án cho Visem nên chọn phương án nào cho phương án.
+[  207.1-  208.1] Đúng rồi.
+[  208.1-  209.1] Thì hôm qua thì...
+[  209.1-  215.1] Nhưng có chữ nhân, nhân lưu ý là để đảm bảo hiệu quả của quá trình mà quản lý dự án,
+[  215.1-  219.1] thì ưu tiên tối đa việc tận dụng nhân lực khiển hữu,
+[  219.1-  225.1] chứ không phải mình đưa mô hình trên trời, dựa tuyển mới, toàn như ông Lâm Sơn, ông Bảy Sao thì nó không thực tế.
+[  225.1-  227.1] Em lời anh đi.
+[  227.1-  228.1] Em sẽ lời anh đi.
+[  228.1-  231.1] Thì đấy, cái nội dung theo anh là như thế,
+[  231.1-  234.1] còn quy chế nhiễm nhiên là em đã đề cập rồi, tổng đồng cũng ok rồi,
+[  234.1-  236.1] nhưng cái này chắc chỉ là thứ yếu thôi,
+[  236.1-  238.1] cho nên phần quy chế là cứ để nguyên.
+[  238.1-  243.1] Bây giờ mình chỉ trình bày lại cái quy mô này, trong này em có đề ghi,
+[  243.1-  247.4] sản phẩm là báo cáo để xuất phương án tổ chức mô hình.
+[  247.4-  252.4] Phương án tổ chức mô hình quản lý dự án của Vy Xeo Mài Tiên cho phù hợp với đoạt xây dựng này,
+[  252.4-  256.4] phù hợp với định hướng phát triển của Vy Xeo Mài Tiên, anh thấy ok đấy.
+[  256.4-  259.4] Tính đã trưởng phòng xong rồi, cái này bảng viết này có ổn không?
+[  259.4-  262.4] Và hôm qua thì thực sự là anh đã trao đổi cái bảng rồi,
+[  262.4-  267.4] tâm sự loại trình điểm rồi, mô hình cũ, mô hình mới rồi, ưu nhật điểm rồi, đúng không?
+[  267.4-  272.4] Bắt đầu thì em cũng chỉ nghĩ là cập nhật quy tình với cả làm một số quy tình mới thôi.
+[  272.4-  275.4] Cái đó thì nhẹ quá mà chưa đạt kỳ vọng.
+[  275.4-  281.4] Ngày mai hôm qua thì vào nói chuyện với các anh thì mới cũng hiểu ra là bây giờ phải đề xuất lại một cái mô hình mới.
+[  281.4-  286.4] Thực sự là cái này không phải là sự thay đổi, mà do nó cứ luồng thông tin nên nó trao đổi qua lại,
+[  286.4-  288.4] thì anh nghĩ là nó có vấn đề một tí.
+[  288.4-  294.4] Thì anh nghĩ là lãnh đạo công ty đang quan tâm đến cái cơ cấu tổ chức của bảng lý dự án
+[  294.4-  298.4] để triển khai trong thời gian tới với gia trị lớn như vậy, làm sao nó chạy nghĩa.
+[  298.4-  302.4] Và anh có nói lại cho em là cái mô hình cũ của Hà Tiên nó chạy rất là nghiệm.
+[  302.4-  307.4] Vâng, cũng đã có những công trình 10.000 tỷ thôi và nó chẳng có vấn đề gì cả.
+[  307.4-  310.4] Chỉ là cái đó đề của anh thông khả.
+[  311.4-  317.4] Hôm qua thì em vẫn thiếu một cái nội dung liên quan đến dự kiến các dự án sắp tới thì mới chỉ có của 2026 thôi.
+[  317.4-  320.4] Thế còn từ 27 đến 30 hoặc là...
+[  320.4-  324.4] Các dự án đó bình tăng cung cấp được bảy quân dự án.
+[  324.4-  331.4] Vì em cũng biết là mình sẽ có những dự án lớn như dự án nhóm 3 không liên quan đến năng lực chứng chỉ hành nghệ hoặc các cá nhân hiện tại đây.
+[  331.4-  339.8] Ví dụ có những dự án lớn nhóm A mà mình không đủ thì mình sẽ phê mấy môn thuê tổ chức tự vấn đề dự án nhé.
+[  339.8-  343.8] Đúng rồi, em cũng đế lắm, cũng đế lắm, em phải phân tích.
+[  343.8-  347.8] Thứ là đầu tư nhóm 3, nhóm 2, nhóm 1.
+[  347.8-  351.8] Ví dụ mức tiền thì bạn Đăng có thể đưa nhóm dự án Hà Tiên tính tìm tư.
+[  351.8-  356.8] Tầng mức như vậy thì giám đốc văn đề dự án thì phải có yêu cầu gì.
+[  357.8-  362.8] Nếu yêu cầu quá cao, phải học 5-7 năm thì lại phương án đi thuê.
+[  362.8-  368.8] Và đơn giản chỉ 1-2 tháng thì nhóm nhiên đưa ra lưu quyết cao để các bạn hoàn thiện.
+[  371.8-  377.8] Em mới chỉ nhận được dự án năm 2026 thôi, chỉ có một số dự án nhóm B và nhóm C thôi.
+[  377.8-  383.8] Nhóm A thì em chưa thấy, nhưng mà hôm qua em nghe các anh bảo là có những dự án hơn gần ngàn tỷ thì nó cũng hợp với nhóm A thôi.
+[  383.8-  391.8] Ví dụ như chắc chắn là giây truyền của quyết kiên lương là hơn ngàn tỷ, giây truyền Lòng An cũng hơn ngàn tỷ,
+[  391.8-  395.8] giây truyền Bình Phước cũng hơn ngàn tỷ, bọn anh đã đọc 1 giây truyền là hơn ngàn tỷ.
+[  396.8-  400.8] Em thương cáo xem ở vị trí trường Giáo lý Ban có những dự án yêu cầu gì,
+[  400.8-  406.8] rồi các bạn làm chủ trì cá nhân, chủ trì những đất vị cấp dưới,
+[  406.8-  412.8] thì yêu cầu gì, nếu yêu cầu 1-2 tháng thì em cũng not vào để các bạn chủ động các bạn hoàn thiện.
+[  412.8-  418.8] Nếu như yêu cầu quá cao, phải học 3-4 năm hoặc là những cái gì cao siêu thì em phải nói lại.
+[  418.8-  420.8] Em sẽ nói với Phương Hán.
+[  420.8-  427.8] Dạ, thì giả sáng như vậy đến khi chuyển khai dự án thì 1 phát 1 là cứ rong róc vào thôi, mình có thời gian chuẩn bị.
+[  427.8-  436.6] Cái này là đáng thống nhất, cái nội dung này ghi này với các bạn nghe là ok rồi đúng không?
+[  436.6-  438.6] Anh biết là bản thảo.
+[  438.6-  444.6] Cái tổ chức quy mô phương quản lý dự án này theo anh, cái này là cái trọng tâm mà tổng đốc đang quan tâm á.
+[  444.6-  447.6] Ngoài quy chế nha, quy chế rất là tốt, anh nói cho.
+[  447.6-  449.6] Đỉnh quy chế thì cái nhỏ á.
+[  449.6-  451.6] Ừ cái nhỏ, nhưng cái lớn là cái này này.
+[  451.6-  453.6] Phải có cái đấy, cái này, cái kia.
+[  453.6-  458.6] Còn tức nhiên, những cái vẻ xấu thì nó theo cái bắt đầu, qua mình thống nhất rồi mà.
+[  458.6-  464.6] Nhưng mà anh nhắc lại là cái này không phải cái phát sinh, cái này là cái chủ chương này từ bắt đầu.
+[  464.6-  470.7] Thay ngán lâu rồi.
+[  470.7-  472.7] Thì tổ chức phòng có ý kiến gì thêm không?
+[  472.7-  474.7] Ở cái có nhiều lắm.
+[  474.7-  476.7] Nhiều lắm.
+[  478.1-  480.1] Thì ý anh vậy thôi.
+[  480.1-  491.2] Còn lại thì thực tế là quan điểm của anh thì anh suy nghĩ để tý nữa là anh chung anh nói.
+[  491.2-  497.2] Thì tý nữa em hỏi anh chung có quan điểm của anh đạo như thế nào không muốn giữ các bạn lý giản.
+[  497.2-  499.2] Em có hỏi thẳng không?
+[  499.2-  503.2] Anh phải có sách nhiệm hỏi thống đập.
+[  504.4-  511.4] Nếu mà biết được ý anh trước thì để em đưa vào phần quyến nghị cái nội dung đấy.
+[  511.4-  515.4] Có thể là anh suy chú chương ngay từ bây giờ thì mình cũng đỡ cái vị lòng vòng.
+[  515.4-  519.4] Cũng có thể là sau khi em ra 3 phương án thì lúc đó anh đi xây quyết.
+[  519.4-  523.4] Đấy thì có 2 thời điểm. Một là thời điểm ngay bắt đầu.
+[  523.4-  531.4] Ý tưởng của anh bây giờ, Quang có chỉnh rằng là vì anh tổng đốc bây giờ cũng làm dự án với anh nhưng cũng rất là dành.
+[  531.4-  533.4] Anh cũng trinh chiến.
+[  533.4-  537.4] Ngay bắt đầu anh nói thôi chỉ một hình tráng thôi bỏ đi.
+[  537.4-  544.4] Thì bỏ mà không chờ đến khi em hoàn chỉnh 3 phương án để xửa tổ chức quản lý dự án với hiện nay cho phương hợp lập xây dựng.
+[  544.4-  546.4] Thì anh sẽ lỡ.
+[  548.4-  556.0] Em tên gì đây?
+[  556.0-  557.0] Em tên Cô Anh.
+[  557.0-  558.0] Cô Anh hả?
+[  558.0-  560.0] Anh là chú trì khi làm cái món này hả?
+[  560.0-  561.0] Dạ vâng.
+[  561.0-  563.7] Làm tất cả đầu tư lâu chưa?
+[  563.7-  564.7] Em ạ.
+[  564.7-  569.7] Trước đây thì làm ban quản lý dự án dân dụ tỉnh.
+[  569.7-  576.7] Sau đây thì em làm bề tạp CAC để làm công tác làm phần mềm của lý dự án để số hoá quy tình.
+[  576.7-  578.7] Anh chưa được một bề số hả?
+[  578.7-  579.7] Vâng.
+[  579.7-  591.0] Kết quả sản phẩm của đề cư đưa ra.
+[  591.0-  595.4] Đôi như trong đề cư bắt đầu mình đưa ra công việc á.
+[  595.4-  596.4] Vâng.
+[  596.4-  597.4] Mình mới chưa cựu thể hoá.
+[  597.4-  598.4] Vâng.
+[  598.4-  601.4] Anh nghĩ mình chưa cựu thể hoá nên khi người ta lọc vào thì sẽ ngộ một hình nhờ.
+[  601.4-  602.4] Vâng.
+[  602.4-  603.4] Thế hai là hình chưa đấy.
+[  603.4-  606.4] Sư pha là chưa sửa phát được lâu.
+[  606.4-  607.4] Vâng.
+[  607.4-  608.4] Thấy không?
+[  608.4-  609.4] Và nội dung công việc cần phải làm gì?
+[  609.4-  611.2] Vâng.
+[  611.2-  616.2] Thế thứ nhất là trong sản phẩm em phải cẩn hệ đặt rõ ra mặt dung.
+[  616.2-  617.2] Vâng.
+[  617.2-  618.2] Thế nhất bước đầu tiên phải làm gì?
+[  618.2-  619.2] Vâng.
+[  619.2-  621.4] Thế như mục đích em phải hiểu.
+[  621.4-  624.4] Chứ mắt anh hiểu vay trò của chủ tư người ta muốn cái gì đây.
+[  624.4-  625.4] Vâng.
+[  625.4-  627.4] Các đồng ý đó là muốn vay trò, muốn cái gì.
+[  627.4-  632.8] Thế đây là tư muốn là em cải tổ và thay đổi.
+[  632.8-  634.8] N tư ong dĩa hệ thống đầu tư.
+[  634.8-  637.8] VE-CNH, nghe?
+[  637.8-  643.3] Để cái chi lệ như thế nào bởi cho R VICT New Order, lệ diện mới, thay đổi toàn bộ.
+[  643.3-  649.3] Mô hình hoạt tư, mô hình hoạt động, tổ chức, khuef cơ, tính chắc công việc.
+[  649.3-  653.4] R食 hông ai chẳng từ quy định phối hợp dạ, thay đổi hết.
+[  653.4-  654.4] Đ Ringsson là sao?
+[  654.4-  657.4] Đá chứ nó đạt thù với quy định, pháp luật hiện.
+[  657.4-  662.4] Cũng như chi chế phương cấp của V-CNH hiện tại.
+[  662.4-  668.1] đồng thời là ứng dụng với mô hình dành nghiệp của Phần
+[  668.1-  669.7] do những nước chi ti phối
+[  669.7-  671.7] chứ không phải đặc thù trong những nhà nước
+[  671.7-  674.1] nghe, cái khái miệng mà đi muốn như vậy
+[  674.1-  677.1] để hiểu rằng là trong đó có thể xem xét là
+[  677.1-  682.9] Hà Tiên muốn là phải xem xét và lựa chọn ra một số cái yêu cầu về quy kế, vết đối bộ
+[  682.9-  686.9] để tư vấn cho chủ đồ tư thực hiện đúng định trong đó có tới được không?
+[  686.9-  688.4] được không?
+[  688.4-  689.9] trong mô hình mới của công ty của Phần
+[  689.9-  691.4] chứ không phải công ty nhà nước
+[  691.5-  695.3] đấy thì lưu ý, cái quan trọng là Hà Tiên muốn đăng bạc
+[  695.3-  696.3] hiểu chưa?
+[  696.3-  697.2] là thứ nhất
+[  697.2-  703.3] thì để mà điều bày, chứ mất công việc của em là trong công kê đồng thì em phải
+[  703.3-  704.5] đánh giá khảo sát toàn
+[  704.5-  705.7] đúng không?
+[  705.7-  710.7] cái công kê hiện trạng, một cái tồn tư của Hà Tiên như thế nào
+[  710.7-  713.9] từ cái phần cấp, phần quyền
+[  713.9-  717.5] mô hình tổ chức, cách thức thực hiện, xây dựng kế hoạch
+[  717.5-  719.5] kế hoạch nâng hàng chung hạn dạng
+[  719.5-  722.8] đó, và cái đền hướng chiến lược phát triển
+[  723.0-  727.2] trong cái năm năm chung hạn
+[  727.2-  729.4] thì em phải biết rõ hiểu rõ được
+[  729.4-  731.4] em phải rõ cái tặc thù của phía xe lập tiêu là gì
+[  731.4-  733.4] cái đầu tư đúng không, cái gì
+[  733.4-  736.6] chứ không phải là lướng đầu tư, lướng xây dựng qua, áp vô này là không được
+[  736.6-  738.6] em phải hiểu cẩn sợ như thế đó
+[  738.6-  742.6] vâng
+[  742.6-  744.6] lô, ơi
+[  744.6-  749.5] ờ, nhưng mà không đi
+[  749.5-  758.7] ờ ờ ờ
+[  758.7-  765.0] ờ, không lúc đi
+[  765.0-  768.7] em tươi cái xe là em rả xóa
+[  768.7-  772.0] thì em phải đưa xuất cái hệ thẩm như thế này
+[  772.9-  774.9] cái điểm hiếu của Hà Tiên không nằm ở đâu
+[  774.9-  777.9] và cái thùng lợi hiện nay Hà Tiên được cái gì
+[  777.9-  779.9] đánh giá
+[  779.9-  782.4] đánh giá hiên trạng
+[  782.4-  784.4] đánh giá suất, đánh giá cơ cấu hiện trạng
+[  784.4-  786.4] đánh giá truyền lo
+[  786.4-  788.4] tiềm năng, thách thức
+[  788.4-  790.4] nghe cơ hội của Hà Tiên như thế nào trong cái môn
+[  790.4-  792.4] hình dạng
+[  792.4-  795.4] hông thức này được, cái đó thì người ta mới nhìn vào người ta biết là
+[  795.4-  797.4] hôm nay Hà Tiên trạng nó như vầy
+[  797.4-  799.4] nó đang đặt thù với
+[  799.4-  801.4] hông thức đầu tư nó được thùng lợi như vầy
+[  801.4-  803.4] tuy nhiên đối với thách thức
+[  803.4-  805.4] sau này là được thay đổi gì đó
+[  805.4-  807.4] mấy cơ hội sẽ vướng cái gì gì
+[  807.4-  809.4] ngoài ra thì thường lợi hơn là cái gì
+[  809.4-  811.4] sau đây là
+[  811.4-  813.4] lục nó không mắc buộc
+[  813.4-  815.4] không mắc lục đưa Hà Tiên vào trường hợp
+[  815.4-  817.4] áp dụng đặt thù với Lý Dân nước
+[  817.4-  819.4] đó là nguyên phòng, mấy khác
+[  819.4-  821.4] em phải được phân tích được cái đó điểm hiếu mạnh để Hà Tiên nhìn thấy
+[  821.4-  823.4] lãng đạo ta nhìn ra người ta thấy
+[  823.4-  825.4] mình sẽ tham dụng được, có thể áp đặt thay đổi được
+[  825.4-  827.4] các quy chế
+[  827.4-  829.4] ngoài quy chế đầu tư ra thì nhìn dụng được cái thế giới các quy chế khác
+[  829.4-  831.4] để không ấn dụng được
+[  831.4-  833.4] trong đó, đồng hồ Hà Tiên
+[  833.4-  841.1] thứ 2, sau khi em đánh giá là xóa xong
+[  841.1-  843.1] thì em phải có
+[  843.1-  845.1] xây dựng lại nguyên trình đầu tư mới
+[  845.1-  847.2] mà em phải chuẩn hóa cái đội dân này
+[  847.2-  849.2] thông thách, khoa học
+[  849.2-  851.2] đúng, theo quy lật mới
+[  851.2-  853.2] để làm sao mà tối hương nhất
+[  853.2-  855.2] để đặt cái gì nhất
+[  855.2-  857.2] chứ mà nó rối, mà rung rung quá
+[  857.2-  859.2] làm cái gì không biết đường đâu mà nổi nữa
+[  859.2-  861.2] xây những bộ quyết định mới hướng đến cái việc
+[  861.2-  863.2] sau này xổ ngoài những quyết định này
+[  863.2-  866.1] thì cái vị trí hóa này
+[  866.1-  868.1] nó qua nhiều công độ 3
+[  868.1-  870.1] từ cái giai đoạn
+[  870.1-  872.1] chuẩn bị thực hiện diễn án này
+[  872.1-  874.1] diễn án thực hiện diễn án này, diễn án kết thúc diễn án
+[  874.1-  876.1] nghe hông
+[  876.1-  878.1] đồng hồ trong cái quy chế của diễn án này
+[  878.1-  880.1] em phải phân định rõ được cái cấp, phân cấp, quản lý
+[  880.1-  882.1] giữa cái định
+[  882.1-  884.1] cái mức phí định, chất nhiệm của hồi đầu của chị này
+[  884.1-  886.1] người định diễn vối này, bởi vì hôm nay Hà Tiên
+[  886.1-  888.1] nó có cái diễn vối vố, thì em không biết là đăng là
+[  888.1-  890.1] cũng rất hồi sợ cho nó chưa
+[  890.1-  892.1] bởi dựng vối, phải có cân cứ
+[  892.1-  894.1] lúc 1628, lúc mới á
+[  894.1-  896.1] cùng với cái quy chế mới
+[  896.1-  898.1] quy chế 500 của người định vối
+[  898.1-  900.1] Hà Tiên, thì cái nhà tiên sẽ cắt kèm
+[  900.1-  902.1] nhưng là em phải bảo mặt đó nha
+[  902.1-  904.1] rồi em bảo mặt những cái
+[  904.1-  906.1] công tin đó thông tin bảo mặt
+[  906.1-  908.1] trong hình đồng chưa bắt hạt
+[  908.1-  910.1] như mà bảo mặt
+[  910.1-  912.6] thì cái hồi phân cấp
+[  912.6-  914.6] của băng băng Bông Bắc vì xe
+[  914.6-  916.6] có phòng 3 chuyên man
+[  916.6-  918.6] làm sao mà băng, cắt băng vào lưới gì á
+[  918.6-  920.6] nha, cắt băng, em nhớ là
+[  920.6-  922.6] nếu cắt băng vào lưới gì á
+[  922.6-  924.6] chứ không phải là một băng, cắt băng vào lưới gì á
+[  924.6-  927.2] thì làm sao
+[  927.2-  929.2] nó có chuyện có hợp nhau
+[  929.2-  931.2] nhất là xây dựng không trò lòng kéo
+[  931.2-  933.2] đúng không, và đúng với thông kiện
+[  933.2-  935.2] theo quy chế phần cắt của băng băng
+[  935.2-  937.2] của băng băng nha
+[  937.2-  942.7] thì đương nhiên trong quy chế
+[  942.7-  944.7] thì nó lăn điện với cái trường băng lý chi phí
+[  944.7-  946.7] và băng lý đối thập, nó phải lòng vét vào đó
+[  946.7-  948.7] làm sao đảm bảo có việc xây dựng
+[  948.7-  950.7] cái quy chế, cái chi phí một cách
+[  950.7-  952.7] lập vào băng lý trong bức đoàn tư này
+[  952.7-  954.7] để thông kiện nào nè
+[  954.7-  956.7] chính tình trạng là
+[  956.7-  958.7] rụt tổng mức đo tư
+[  958.7-  960.7] trong quy chế
+[  960.7-  962.7] đưa ra những quy kán trong quy chế
+[  962.7-  964.7] làm sao không được tổng mức đo tư, mà đưa tổng mức
+[  964.7-  966.7] lưu dự như thế nào
+[  966.7-  968.7] lưu dự như thế nào
+[  968.7-  970.7] lưu dự như thế nào
+[  970.7-  972.7] từ đó là minh mật
+[  972.7-  974.7] thóa đấu thông
+[  974.7-  976.7] với hạt tiêu, hôm nay có mồm ấp dụng gì
+[  976.7-  978.7] có thể ấp dụng lưu dự đấu thông như mạng hay còn cái gì
+[  978.7-  980.7] thì em phải hướng dẫn
+[  980.7-  982.7] cái quy chế của mình cụ thể ra
+[  982.7-  984.7] để chi để nhìn vào nó biết
+[  984.7-  986.7] số 2 là cái kinh diện số họa
+[  986.7-  988.7] hôm nay là cái cầm beam
+[  988.7-  990.7] em phải đưa cái mục phần kinh diện số họa vào đây
+[  990.7-  992.7] để biết rằng, đương nhiên em phải đưa vào
+[  992.7-  994.7] nhưng biết rằng
+[  994.7-  996.7] cái kinh diện số họa này nó phải có một tương đoạn nữa
+[  996.7-  998.7] đúng không? đúng không? đúng là cái tương đoạn lại là
+[  998.7- 1000.7] hạ chi phải ký hợp đồng nữa, số họa đó
+[ 1000.7- 1002.7] nhưng mà chưa, em chọn là dừng ở chỗ
+[ 1002.7- 1004.7] tất cả tất cả tương tự pháp đí
+[ 1004.7- 1006.7] chứ còn chưa đến khi mong đến số họa
+[ 1006.7- 1008.7] môn kinh diện riêng
+[ 1008.7- 1018.3] Vì dựa tìm những dự án sắp tới thì em sẽ liệt kê ra những dạng nào bắt buộc phải áp dụng BIM theo những luật mới để anh có kế hoạch vận bị
+[ 1018.3- 1024.8] Rồi, thứ 2 nữa là cái vinh viên quy chế này nó không làm thay đổi bằng chất dựng cái cái thầu đó thật dễ dàng
+[ 1024.8- 1028.7] hoặc là em phải quy chế, phải viên cứ đưa ra cái địa kếp như thế nào nó phù hợp
+[ 1028.7- 1034.0] chẳng dựng phù hợp là khi đưa ra cái quy chế này nó sẽ đá cái vinh viên trước là ảnh hưởng cái dự án
+[ 1034.0- 1042.4] Em có thể cho phép em có thể bóc tham khảo 1 những 2 dự án đặt thù Hà Tiên đăng ký đoạn hiện nay để em có nghiên cứu
+[ 1042.4- 1046.2] thì có thể lúc đó thì 3-5 dự án thì ta sẽ tắt cho em
+[ 1049.8- 1058.0] Thì ngoài ra thì nó có 1 cái em phải trong quy chế em phải xây dựng 1 cái biểu mẫu trung hóa
+[ 1058.0- 1064.6] kèm theo trong quy chế, chúc chủ này em còn có đấy, nhưng mà em phải bảo em xác ngay khi xóa lại em sẽ dựng điểm mẫu này
+[ 1064.6- 1069.2] Điểm mẫu này phải là thông dân điểm mẫu trung hóa
+[ 1069.2- 1078.3] Thì ra đây là cái đầu cuối cùng này khi mà đã quy chế rồi, khi mà hành áp dụng
+[ 1078.3- 1082.6] thì nó có hướng dẫn, phải có chương trình hướng dẫn chứ
+[ 1082.6- 1087.3] phải lựu hướng dẫn cho người ta tập nhập lại, chỉ thích những phi đình mới thôi
+[ 1087.3- 1090.5] Sau quy chế là quy trình, cái miệng tắc là như vậy
+[ 1090.5- 1092.9] Thì em phải có chuyên giao
+[ 1095.1- 1099.1] Thì đó là những cái nền trung của việc đó là sẽ được cập nhập chi tiết
+[ 1099.1- 1104.3] Đối với như là cái cơ bản, cái động thể của em viết đó là nó là ghi đó, ghi tổng tiền trung
+[ 1104.3- 1108.5] Nhưng ở đây, tổng bác muốn là có chi tiết của thể ra để chi
+[ 1108.5- 1112.6] để nhìn vào đó, để biết cái tác lượng sập phản của mình đưa ra, chứ mà nhìn chung chung mà bảo em
+[ 1112.6- 1115.1] tập mẫu mới quy chế không phải tâm triệu như bây giờ
+[ 1115.5- 1116.1] Vâng
+[ 1116.9- 1123.1] Vì vậy là phải có chí ra, nâng mắng để người ta ra, xin giao chí viết, dùng việc đó để đưa vào tây truyền hợp nọt
+[ 1124.0- 1124.4] Dạ
+[ 1124.4- 1124.9] Được chưa
+[ 1124.9- 1125.5] Em nhờ
+[ 1126.2- 1129.0] Hôm nay thì anh làm việc với em cũng rõ hơn
+[ 1129.0- 1130.3] Được chứ, hôm nay công việc chưa?
+[ 1130.3- 1131.0] Đúng rồi
+[ 1131.9- 1135.9] Bởi vì với em là hôm qua là anh làm việc với ai nữa
+[ 1135.9- 1139.1] Nhưng bởi anh công việc, hôm nay là anh tưởng con làm việc
+[ 1139.1- 1140.1] Nhưng hôm nay
+[ 1140.9- 1142.8] Vì vậy là hôm nay miếng này làm việc xong
+[ 1142.8- 1145.8] Vì miếng chiều thì không có em làm việc với giá đốc bào lý giá nữa
+[ 1145.8- 1146.2] Dạ
+[ 1146.2- 1147.6] Thì đương nhiên anh còn mắng hơn nữa
+[ 1147.6- 1148.1] Vâng
+[ 1148.1- 1148.7] Ờ
+[ 1148.7- 1150.7] Vì công việc của anh như thế nào nữa
+[ 1150.7- 1151.0] Vâng
+[ 1151.0- 1151.5] Được chưa
+[ 1151.5- 1152.4] Công việc của anh như thế nào nữa
+[ 1152.4- 1153.1] Dạ
+[ 1153.1- 1154.8] Rồi, thứ nhất về cái hợp bỏng nha
+[ 1154.8- 1155.2] Vâng
+[ 1155.2- 1155.7] Xong
+[ 1156.0- 1158.2] Đến với lúc này, cái việc hôm nay là cái gì nữa
+[ 1162.8- 1167.5] Hôm nay em dự kiến tình bày về cái báo cáo đề xuất em xây dựng cái khung đấy thôi
+[ 1168.4- 1174.0] Mình cũng muốn tình bày vay ra đây, khung báo cáo đề xuất phương án tổ dịch phụ nguyện này
+[ 1174.8- 1175.8] À, một hần nữa này, ok
+[ 1175.8- 1176.3] Vâng
+[ 1176.3- 1177.0] Rồi
+[ 1177.0- 1179.8] Nhưng mà chắc là về thì em cần thêm một số
+[ 1179.8- 1180.5] Hồng tình đúng không?
+[ 1180.5- 1181.0] Ok
+[ 1181.0- 1182.7] Rồi em hoàn thiện, em gửi lại
+[ 1182.7- 1183.4] Rồi
+[ 1183.4- 1186.5] Thì anh Đăng sẽ là người đồng lối tắt thông tin cho bạn tôi lắng nảy
+[ 1187.0- 1187.5] Dạ
+[ 1189.1- 1189.9] Nhớ đi, ở đây
+[ 1198.2- 1201.5] Tí nữa mà em gặp lại anh nếu lúc bắt được đi giá
+[ 1201.5- 1202.5] Anh có hẹn chứ
+[ 1202.5- 1203.0] Dạ
+[ 1203.0- 1203.8] Có hẹn chứ hả
+[ 1203.8- 1204.6] Dạ
+[ 1204.6- 1206.5] Nhà anh Trung, chiều này, nhà anh Trung
+[ 1206.5- 1207.5] Chiều nhà anh Trung này
+[ 1207.5- 1210.6] Đăng kết nối, Đăng kết nối ok thì dẫn bạn xuống
+[ 1211.2- 1212.3] Dạ, nhà anh Trung nói trước
+[ 1212.3- 1212.8] Ừ
+[ 1214.4- 1215.7] Rồi, thời công nhìn ra
+[ 1217.0- 1218.1] Ý là
+[ 1218.1- 1220.5] Em tư vấn muốn gặp ba, giám đốc ba anh
+[ 1220.5- 1222.9] Thời công ba, giám đốc ba anh, chị đó anh thèm hứa rồi
+[ 1222.9- 1225.4] Vậy anh chắc mà đợi hồi chiều
+[ 1225.4- 1227.6] Vậy em nhờ anh
+[ 1228.5- 1230.6] Báo chỗ anh Tú trước
+[ 1231.5- 1232.0] Tú hả?
+[ 1232.0- 1232.2] Anh Tú
+[ 1232.2- 1232.8] Có rồi
+[ 1232.8- 1233.1] Dạ
+[ 1233.1- 1235.3] Anh Tú có làm vị trí tiếp mà, tôi qua là vị trí tiếp mà
+[ 1235.3- 1235.8] Dạ
+[ 1238.0- 1238.5] Rồi
+[ 1238.5- 1240.1] Tụi em đợi hiệu bắt đầu
+[ 1240.1- 1240.7] Em hiểu cái gì
+[ 1240.8- 1244.2] Em đọc học tài lĩnh như là đọc ra tắt cho em
+[ 1244.2- 1246.6] Em hiểu cái cơ bản của môn hình
+[ 1246.6- 1248.6] Một nộng của dự án hạt viên trên
+[ 1248.6- 1250.9] Em đang
+[ 1250.9- 1254.1] Hôm qua lấy các dữ liệu về thì em cũng đã
+[ 1254.1- 1255.4] Làm được vài phân tích rồi
+[ 1256.5- 1257.4] Phân tích tự tào
+[ 1257.4- 1258.7] Cái đặc thù hạt viên đó
+[ 1258.7- 1260.1] Cái dự án nó chạy dài
+[ 1260.1- 1260.9] Chạy đọng quá
+[ 1260.9- 1262.2] Nó không phải là khu đựng
+[ 1262.2- 1262.7] Đúng rồi ạ
+[ 1262.7- 1263.1] Em biết không?
+[ 1263.1- 1266.3] Em cũng phân tích từ mấy chục dự án ở trong
+[ 1266.3- 1268.0] Trộng cái
+[ 1268.0- 1269.0] Quy trình 161
+[ 1269.0- 1270.8] Trong nơi ngồi dự dự án
+[ 1270.9- 1271.8] Ba mấy cái
+[ 1271.8- 1272.8] Ba mấy cái dự án
+[ 1272.8- 1274.9] Em cũng phân tích ra các loại dự án
+[ 1274.9- 1275.9] Rồi
+[ 1275.9- 1277.6] Các dự án ấy
+[ 1277.6- 1279.1] Cũng nằm rải gác ở nhiều nơi
+[ 1279.1- 1281.1] Thì không tập trung một chỗ
+[ 1281.1- 1282.3] Rồi thời gian có dài
+[ 1282.3- 1283.3] Thì cái đảo giả chừng
+[ 1283.3- 1285.4] Đấy thì cả đấy em cũng đưa vào
+[ 1285.4- 1286.8] Cái bài
+[ 1286.8- 1288.2] Khao sát
+[ 1288.2- 1289.5] Khao cáo
+[ 1289.5- 1292.6] Vậy em đứng giá này là một lý lộ tư hạt viên
+[ 1292.6- 1295.8] Thì cái đó em phải
+[ 1295.8- 1297.0] Đăng hỏi
+[ 1297.0- 1299.0] Hỏi với lọ phòng bình chức
+[ 1299.0- 1300.0] Cho lộ thêm
+[ 1300.1- 1301.3] Cấp được cái
+[ 1301.3- 1303.0] Cái nguồn lực của Hà Tiên
+[ 1303.0- 1304.4] Hôm nay
+[ 1304.4- 1305.4] Như thế nào
+[ 1305.4- 1306.4] Cái đó có
+[ 1306.4- 1307.4] Của lý dự án
+[ 1307.4- 1308.4] Của lý dự án
+[ 1308.4- 1309.4] Như thế nào
+[ 1309.4- 1310.4] Đề số lượng và chất lượng
+[ 1310.4- 1311.4] Còn có em cũng không xác
+[ 1311.4- 1312.4] Nhưng mà hiện tại đang có
+[ 1312.4- 1313.4] Còn 38
+[ 1313.4- 1314.4] 38 người
+[ 1314.4- 1315.4] 38 người
+[ 1315.4- 1316.4] 38
+[ 1316.4- 1317.4] 38
+[ 1317.4- 1318.4] Sự quản lý dự án
+[ 1318.4- 1319.4] Là của tổng thể hay là của
+[ 1319.4- 1320.4] Bản quản lý dự án
+[ 1320.4- 1321.4] Bản
+[ 1321.4- 1322.4] Em phải tổng thể
+[ 1322.4- 1323.4] Bởi vì nó liên quan đến cái
+[ 1323.4- 1324.4] Các cái
+[ 1324.4- 1325.4] Của phòng bản chức năng nữa
+[ 1325.4- 1326.4] Vì sao trong cái
+[ 1326.4- 1327.4] Trong cái lực xây dựng mới
+[ 1328.4- 1329.4] Thì ngoài cái lực Hà Tiên
+[ 1329.4- 1330.4] Lật bao quả lý dự án
+[ 1330.4- 1331.4] Thì hết được thuê
+[ 1331.4- 1332.4] Học tự thực hiện
+[ 1332.4- 1333.4] Chứ nó sợ là thuê
+[ 1333.4- 1334.4] Đưa bình tĩu bấm
+[ 1334.4- 1336.4] Thì đương nhiên để thuê
+[ 1336.4- 1337.4] Để thực hiện lắm
+[ 1337.4- 1338.4] Thì bản thân đang lực Hà Tiên
+[ 1338.4- 1339.4] Thì phải tổng
+[ 1339.4- 1340.4] Đúng không
+[ 1340.4- 1341.4] Thế quy định
+[ 1341.4- 1342.4] Thế
+[ 1342.4- 1343.4] Nên là phải tham khảo cái phòng bản chức
+[ 1343.4- 1344.4] Về kinh lộ về kỹ sư
+[ 1344.4- 1346.0] Cái đó
+[ 1346.0- 1347.0] Cái đó
+[ 1347.0- 1348.0] Cái đó
+[ 1348.0- 1349.0] Tân vũ tỏ
+[ 1349.0- 1350.0] Để quả lý dự án
+[ 1350.0- 1352.0] Bản tán thực hiện
+[ 1352.0- 1353.0] Hôm qua thì em cũng rà xoát các cái
+[ 1353.9- 1354.9] Chứng chỉ năng lực của ban lực dự án
+[ 1354.9- 1355.9] Hiện tại thì cũng sắp hết hạn rồi
+[ 1355.9- 1356.9] Chứng chỉ của ban lực dự án
+[ 1356.9- 1357.9] Sắp hết hạn rồi
+[ 1357.9- 1358.9] Thì cũng phải là hầm lại
+[ 1358.9- 1359.9] Vì có những ví dụ như
+[ 1359.9- 1360.9] Giám đốc quản dự án
+[ 1360.9- 1361.9] Với cấp tình hằng 1
+[ 1361.9- 1362.9] Cấp 1 thì cũng cần
+[ 1362.9- 1363.9] Những dự án của nhóm ba cấp 1
+[ 1363.9- 1364.9] Bên mình cũng phải cần
+[ 1364.9- 1365.9] Những giám đốc của chính trị
+[ 1365.9- 1366.9] Không biết là sửa quả sẽ phải thuê
+[ 1366.9- 1367.9] Hay là môi thuê
+[ 1367.9- 1368.9] Hay là mình
+[ 1368.9- 1369.9] Cái đó học bảy là
+[ 1369.9- 1370.9] Thì mình không biết
+[ 1370.9- 1371.9] Thì mình không biết
+[ 1371.9- 1372.9] Thì mình không biết
+[ 1372.9- 1373.9] Thì mình không biết
+[ 1373.9- 1374.9] Thì mình không biết
+[ 1374.9- 1375.9] Thì mình không biết
+[ 1439.1- 1441.1] Vài trò chính năng gì
+[ 1441.1- 1443.1] Với hành trung lực
+[ 1443.1- 1444.1] Thứ nhất là
+[ 1444.1- 1445.1] Độ dự tư vấn sử bình thân rồi kì
+[ 1445.1- 1446.1] Ngu lực có hay không có
+[ 1446.1- 1448.1] Vậy chắc là đồ nguyên sư
+[ 1448.1- 1449.1] Về công vị
+[ 1449.1- 1450.1] Có hay không có
+[ 1450.1- 1451.1] Về chuyên trình nghề
+[ 1451.1- 1452.1] Những người này có hay không có
+[ 1452.1- 1453.1] Nếu mà thiếu
+[ 1453.1- 1454.1] Có ngu lực
+[ 1454.1- 1456.1] Nhưng không có về
+[ 1456.1- 1457.1] Về đuổi đo
+[ 1457.1- 1458.1] Về năng lực
+[ 1458.1- 1460.1] Về chuyên trình nghề
+[ 1460.1- 1461.1] Vì nó không có được đồ tạo mà
+[ 1461.1- 1462.1] Chứ nhất không có được đồ tạo
+[ 1462.1- 1464.1] Thứ 2 là thiếu chuyên trình nghề
+[ 1464.1- 1466.1] Vì không thể làm đồ tạo dạ
+[ 1466.1- 1467.1] Thì có đứng giác được
+[ 1468.0- 1469.0] Để chi
+[ 1469.0- 1470.0] Để em cứ sợ tìm người đó được
+[ 1470.0- 1471.0] Chứ biết được là
+[ 1471.0- 1472.0] Chúng ta tùy mọi người
+[ 1472.0- 1473.0] Mặt cái gì
+[ 1473.0- 1474.0] Mặt chúng ta là một con người
+[ 1474.0- 1475.0] Nhưng về chất lượng
+[ 1475.0- 1476.0] Chúng ta không có
+[ 1476.0- 1477.0] Bởi vì không có thiếu
+[ 1477.0- 1478.0] Không có đồ
+[ 1478.0- 1479.0] Lục nguyên mà
+[ 1479.0- 1480.0] Mình không có thì sao mình làm
+[ 1480.0- 1481.0] Làm sao lục hả
+[ 1481.0- 1484.0] Đó là em phải đưa báo mỹ trị ra
+[ 1484.0- 1485.0] Đường khái những tồn tại của mình
+[ 1485.0- 1486.0] Vì tình hành
+[ 1486.0- 1487.0] Vậy như thế này
+[ 1487.0- 1490.0] Lúc đó Hà Tiêu mới cài tổ
+[ 1490.0- 1491.0] Cũng là cùng tài tổ mà
+[ 1491.0- 1493.0] Cũng là cùng tài tổ của toàn diện
+[ 1493.0- 1495.3] Để nắm trước khi chị khai đoạn mới
+[ 1496.3- 1497.3] Đúng chưa
+[ 1498.3- 1499.3] Thứ 2
+[ 1499.3- 1500.3] Là những chuyên lì
+[ 1500.3- 1501.3] Trong cái môn
+[ 1501.3- 1502.3] Còn chuyện bà lý
+[ 1502.3- 1503.3] Còn chuyện diễn
+[ 1503.3- 1504.3] Thì có nhiều môn
+[ 1504.3- 1505.3] Một
+[ 1505.3- 1506.3] Dĩa án môn
+[ 1506.3- 1507.3] Chuyên ngành
+[ 1507.3- 1508.3] Hà Tiêu không có đâu
+[ 1508.3- 1509.3] Đúng không
+[ 1509.3- 1511.3] Thứ 2 là cái tập hậu vợ hay cái gì đó
+[ 1511.3- 1512.3] Cô vực
+[ 1512.3- 1513.3] Cô vực thì Hà Tiêu không có đâu
+[ 1513.3- 1514.3] Chỉ có môn
+[ 1514.3- 1515.3] Chỉ là diễn
+[ 1515.3- 1516.3] Một diễn
+[ 1516.3- 1518.3] Hoặc là chương tư
+[ 1518.3- 1519.3] Từ khi
+[ 1519.3- 1520.3] Và thay đổi về Thư Bắc
+[ 1520.3- 1521.3] Thế 2 nó lại lên đó
+[ 1521.3- 1522.3] Thế nếu như
+[ 1522.3- 1523.3] Hà Tiêu thêm về
+[ 1523.3- 1524.3] Mới môn này
+[ 1525.2- 1526.2] Giáo cho các
+[ 1526.2- 1528.6] Thành lập nhiên gì vậy
+[ 1528.6- 1529.6] Các ban bộ lý gì vậy
+[ 1529.6- 1530.6] Cả các ban
+[ 1530.6- 1531.6] Cái phòng
+[ 1531.6- 1532.6] Ở đây
+[ 1532.6- 1533.6] Ở công ty nó sẽ có phòng đầu tư
+[ 1533.6- 1535.6] Quản lý tất cả những ban bộ lý gì không đó
+[ 1535.6- 1536.6] Dạ
+[ 1536.6- 1537.6] Thấy chưa
+[ 1537.6- 1538.6] Đấy
+[ 1538.6- 1539.6] Phòng đầu tư sẽ quản lý tất cả ban bộ lý gì không đó
+[ 1539.6- 1541.0] Ừ
+[ 1541.0- 1543.0] Em sẽ đi theo phiên lượng
+[ 1543.0- 1544.0] Theo phiên lượng
+[ 1544.0- 1545.0] Đấy
+[ 1545.0- 1546.0] Thì đó nó mới
+[ 1546.0- 1547.0] Thế như là
+[ 1547.0- 1548.0] Hôm nay nó đang
+[ 1548.0- 1549.0] Mà anh đang nghĩ đó là
+[ 1549.0- 1550.0] Thế phương tích nhỏ nha
+[ 1550.0- 1551.0] Ưu dịu
+[ 1551.0- 1552.0] 2 cái môn hình
+[ 1552.0- 1553.0] Chứ là không được đâu
+[ 1553.0- 1554.0] Khu vực với lào ấy là không được đâu
+[ 1555.0- 1556.0] Chứ không đủ nó đang làm được lắm
+[ 1556.0- 1557.0] Ừ
+[ 1557.0- 1558.0] Không đủ nó để làm
+[ 1558.0- 1559.0] Đấy
+[ 1559.0- 1560.0] Đấy chưa
+[ 1560.0- 1561.0] Chỉ có cái là 1
+[ 1561.0- 1562.0] Chúng tụi tư từ khi mà thuê cho bị thương vấn
+[ 1562.0- 1563.0] Môn lục
+[ 1563.0- 1565.0] 2 là cái
+[ 1565.0- 1567.5] 1 dạ
+[ 1567.5- 1568.5] Vâng
+[ 1568.5- 1569.8] Dạ
+[ 1569.8- 1570.8] Rồi
+[ 1570.8- 1571.8] Rồi xung quanh
+[ 1571.8- 1572.8] Được biết
+[ 1572.8- 1573.8] Bên em là
+[ 1573.8- 1574.8] Không biết ông Quỳnh có giới thiệu hay là
+[ 1574.8- 1576.8] Được tham gia không biết được tham gia
+[ 1576.8- 1578.8] Không biết là tham gia cái hộ
+[ 1578.8- 1579.8] Sổn thả bất thương gì hết
+[ 1579.8- 1580.8] Có không
+[ 1580.8- 1581.8] Vâng
+[ 1581.8- 1582.8] Bên em có sợi cái tiêu chuẩn
+[ 1582.8- 1583.8] Bên em trước đây là
+[ 1584.8- 1585.8] Tông tâm kinh học của Bộ xây dựng
+[ 1585.8- 1586.8] Bây giờ thì cũng cổ phần
+[ 1586.8- 1588.8] Bộ đang
+[ 1588.8- 1589.8] Bộ chính
+[ 1589.8- 1590.8] Rồi thứ nhất
+[ 1590.8- 1591.8] Rồi em đi đây có 1 câu lởn sức
+[ 1591.8- 1592.8] Thì bây giờ nó
+[ 1592.8- 1593.8] Bây giờ là
+[ 1593.8- 1594.8] Chơi tự sợi những ló
+[ 1594.8- 1595.8] Ừ
+[ 1595.8- 1596.8] Trong bí giới em phải vòng dục
+[ 1596.8- 1597.8] Đình ra là
+[ 1597.8- 1598.8] Sắp tới Bộ sẽ ra
+[ 1598.8- 1599.8] Bán hành những cái chính
+[ 1599.8- 1600.8] Vâng
+[ 1600.8- 1601.8] Vâng
+[ 1601.8- 1602.8] Vương viên
+[ 1602.8- 1603.8] Hiện tại thì là
+[ 1603.8- 1604.8] Môn lục xây dựng mới ra
+[ 1604.8- 1605.8] Và nghị định dưới luật
+[ 1605.8- 1606.8] Cũng đã ban hành rồi
+[ 1606.8- 1607.8] Thế vậy đấy
+[ 1607.8- 1608.8] Thế là 1 tháng 7
+[ 1608.8- 1609.8] Ừ
+[ 1609.8- 1610.8] Thế sắp tới thì sẽ có cái thông tư
+[ 1614.8- 1615.9] Tìm hiểu trước xem có ban bản
+[ 1615.9- 1616.9] Vì thảo hay thông tư
+[ 1616.9- 1617.9] Mọi người em cũng sẽ
+[ 1617.9- 1618.9] Dịa kiến ở năm mai tiếp
+[ 1618.9- 1619.9] Ừ
+[ 1619.9- 1620.9] Em dì kiếm đấy
+[ 1620.9- 1621.9] Còn anh biết
+[ 1621.9- 1622.9] Dì kiếm trước cho chủ lột tư
+[ 1622.9- 1623.9] Đấy thì sau đó
+[ 1623.9- 1625.9] Cái đó em xin dừng lại
+[ 1625.9- 1626.9] Tổng hợp lại
+[ 1626.9- 1627.9] Làm ra 1 cái
+[ 1627.9- 1628.9] Mũi như anh nói anh lào
+[ 1628.9- 1629.9] Ừ
+[ 1629.9- 1630.9] Huy chế chỉ là 1 cái sản phẩm nhỏ ra
+[ 1630.9- 1631.9] Ừ
+[ 1631.9- 1632.9] Trong cái mô hình
+[ 1632.9- 1633.9] Trong cái mô hình
+[ 1633.9- 1634.9] Chuyện vô trọng là
+[ 1634.9- 1635.9] Cái tổ chức lại cái hệ thống
+[ 1635.9- 1636.9] Hành hành hợp tư
+[ 1636.9- 1637.9] Hành hành hợp tư
+[ 1638.0- 1639.0] Từ mô hình tổ chức
+[ 1639.0- 1640.0] Tư giấu
+[ 1640.0- 1641.0] Phôn nổi
+[ 1641.0- 1642.0] Ừ
+[ 1642.0- 1643.0] Thật lập
+[ 1643.0- 1644.0] Chuyện tâm
+[ 1644.0- 1645.0] Mũi giả như thế nào
+[ 1645.0- 1646.0] Phong cấp phong quyền như thế nào
+[ 1646.0- 1648.0] Đặt tiền vui cái phong cấp phong quyền
+[ 1648.0- 1649.0] Đấy
+[ 1649.0- 1650.0] Hiện nay rồi là
+[ 1650.0- 1651.0] Anh Vy Say nó có phong hấp quyền
+[ 1651.0- 1653.0] Cho tổng Cất Đi Duy Vũn rồi
+[ 1653.0- 1654.0] Vậy bám ra của đường xong tái
+[ 1654.0- 1655.0] Một người vô đình
+[ 1655.0- 1656.0] Được quyền quy định gì
+[ 1656.0- 1657.0] Đấy
+[ 1657.0- 1658.0] Đãng đốc là quyền quy định gì
+[ 1658.0- 1660.0] Chứ không lệ thuộc vào tổng tình
+[ 1660.0- 1661.0] Đấy
+[ 1661.0- 1662.0] Đấy
+[ 1662.0- 1663.0] Thì em phải đoán cái tư duy đó
+[ 1663.0- 1664.0] Đúng rồi
+[ 1664.0- 1665.0] Nha
+[ 1665.1- 1666.1] Đó
+[ 1666.1- 1667.5] Hà Tiên
+[ 1667.5- 1668.5] Còn
+[ 1668.5- 1670.5] Hiện nay nó không tổng lại là những cái quyết chế
+[ 1670.5- 1671.5] Chính nhiên xong sau là những cái quyết chế
+[ 1671.5- 1672.5] Cũng là phong cấp
+[ 1672.5- 1675.5] Tuy tổng đi là thuộc tổng đi quá nhiều
+[ 1675.5- 1676.5] Dạng đấy là
+[ 1676.5- 1677.5] Anh thượng đi tiến độ
+[ 1677.5- 1678.5] Thực hiện như vậy
+[ 1678.5- 1680.0] Đấy
+[ 1680.0- 1681.0] Nó không hiệu quả
+[ 1681.0- 1682.0] Nhưng bây giờ
+[ 1682.0- 1683.0] Động đốc anh không muốn nó như thế đó
+[ 1683.0- 1684.0] Làm sao tốt
+[ 1684.0- 1685.0] Thôi tổng tình
+[ 1685.0- 1686.0] Đấy
+[ 1686.0- 1687.0] Mà có đề xuất
+[ 1687.0- 1688.0] Thì lưu nhiên là
+[ 1688.0- 1689.0] Cái đề xuất mình đưa ra
+[ 1689.0- 1690.0] Thì phải xuyên dưới tổng tình
+[ 1690.0- 1691.0] Lưu nhiên là
+[ 1691.0- 1692.0] Mình phải đi trước
+[ 1692.0- 1693.0] Mình đề xuất
+[ 1696.0- 1698.0] Điều chỉnh là quy chế của người ta
+[ 1698.0- 1699.0] Đấy
+[ 1699.0- 1700.0] Hiện nay mình đang vướng
+[ 1700.0- 1701.0] Khi quy chế là 2, 3, 9 mấy
+[ 1701.0- 1702.0] Năm 9 ngày của tổng tiên
+[ 1702.0- 1703.0] Đấy
+[ 1703.0- 1704.0] Mình đang vướng cái đó
+[ 1704.0- 1706.0] Nên là mình phải đề xuất chưa
+[ 1706.0- 1707.0] Mình đề xuất
+[ 1707.0- 1708.0] Tiêu quả thì gửi nó ngoài kia lên
+[ 1708.0- 1709.0] Để người ta mà nhìn
+[ 1709.0- 1710.3] Đấy
+[ 1710.3- 1713.3] Hiện nay là làm việc em định lại
+[ 1713.3- 1714.3] Đúng không
+[ 1714.3- 1715.3] Còn trong đó nhận tư kỳ
+[ 1715.3- 1716.3] Em cần cái gì nữa
+[ 1716.3- 1717.3] Ok
+[ 1717.3- 1718.3] Hôm nay mình sẽ hợp tác tiếp
+[ 1718.3- 1719.3] Dạ
+[ 1719.3- 1720.3] Còn buổi chiều nay
+[ 1720.3- 1721.3] Sẽ có buổi làm việc chuyên môn
+[ 1721.3- 1722.3] Trực tiếp với 30 lý giá
+[ 1722.3- 1723.3] Dạ
+[ 1723.3- 1724.3] Từ cái cơ cấu
+[ 1724.3- 1725.3] Tổ chức của anh như thế nào
+[ 1725.3- 1726.3] Dạ
+[ 1726.3- 1727.3] Hiện nay nó như thế nào
+[ 1727.3- 1728.3] Con người nó như thế nào
+[ 1728.3- 1729.3] Dạ
+[ 1729.3- 1730.3] Mà đặc hồi
+[ 1730.3- 1731.3] Hiện nay nó có môi mỗi phố trợ
+[ 1731.3- 1732.3] Mỗi phố trợ của 30 lý giá
+[ 1732.3- 1733.3] Học động như thế nào
+[ 1733.3- 1734.3] Dạ
+[ 1734.3- 1735.3] Mà từ phối hợp giữa cái nhà máy
+[ 1735.3- 1736.3] Trong quy chế của hà tiên thì có
+[ 1736.3- 1737.3] Giữa công ty cũng có rồi
+[ 1737.3- 1738.3] Dạ
+[ 1738.3- 1739.3] Bới 30 lý giá cũng có rồi
+[ 1739.3- 1740.3] Các phòng 39
+[ 1740.3- 1741.3] Các nhà máy trình định cũng có rồi
+[ 1741.3- 1742.3] Chị em nhìn rồi đấy
+[ 1742.3- 1743.3] Chị này
+[ 1743.3- 1744.3] Em phân thức được cái bất cập
+[ 1744.3- 1745.3] Nằm ở đâu
+[ 1745.3- 1746.3] Dạ
+[ 1746.3- 1747.3] Đấy
+[ 1747.3- 1748.4] Dạ
+[ 1748.5- 1750.1] Chị em hay chị du lịch cái điện đó
+[ 1750.1- 1751.1] Dạ
+[ 1751.1- 1752.1] Dạ
+[ 1752.1- 1775.9] Đi attendees
+[ 1775.9- 1776.9] Dạ
+[ 1776.9- 1777.9] Dạ
+[ 1777.9- 1778.9] Dạ
+[ 1778.9- 1784.9] Chứ không phải là chúng ta phải trả đổ điện thoại nhau, nhiều chứ chắc như đó, trả đổ điện thoại nhau là chúng ta chưa hiểu hết công việc, không hiểu công việc.
+[ 1784.9- 1787.9] Mà chúng ta mới ngồi nhau, mới được hiểu công việc.
+[ 1787.9- 1788.9] Dạ.
+[ 1788.9- 1790.9] Nha. Đấy.
+[ 1790.9- 1794.9] Nội dung công việc này em nghĩ là 4-5 ngày em sẽ đọc,
+[ 1794.9- 1795.9] Thì ok, đó thì tốt hơn.
+[ 1795.9- 1800.9] Khoảng trọng là khảo sát được đầy đủ, có đầy đủ dữ liệu, có đầy đủ công tin.
+[ 1800.9- 1802.9] Thì lúc đấy là sẽ...
+[ 1802.9- 1809.9] Vâng, lúc này, vì hợp đồng mình chưa ký kết, cái nội dung đó là nội dung trọng yếu của Hà Tiên trong 8 cơ cấu trong giai đoạn này.
+[ 1809.9- 1817.9] Nội dung cực kỳ quan trọng cho nên là cái thời gian theo anh là nó cũng quan trọng lắm bằng chất lượng, phải đảm bảo chất lượng.
+[ 1817.9- 1822.9] Thế thì có cần thời gian thì em cứ đề xuất, chứ đừng có ấy đè quá rồi cuối cùng lại...
+[ 1822.9- 1829.9] Không thì nguy tắc như thế này, nói thôi, lương như chúng ta có lúc tôn thắt hồi hộp 45 ngày bởi vì giá là 45 ngày.
+[ 1829.9- 1830.9] À, trọng giá rồi.
+[ 1830.9- 1836.9] Còn trong những thời gian thì đâu đó thì cứ trọng có thời gian để khám sát đánh giá thêm, cứ bình thân xét, cứ quyết định.
+[ 1836.9- 1838.9] Còn bây giờ thì tập bối lòng này đã.
+[ 1838.9- 1845.9] Chứ là phải đảm bảo chất lượng em nhé, trong trường bình cần thêm thời gian thì mình cứ đề xuất chủ tư, không có vấn đề gì cả.
+[ 1845.9- 1848.9] Đảm bảo chất lượng, chứ mình không chạy đua.
+[ 1848.9- 1854.9] Với làm thứ 2, với Lui, hoặc các đặc hầu qua, cái đời chúng ta có nhà đứa phương đồ, hoặc ra làm việc đó.
+[ 1854.9- 1861.9] Với lúc đó, những cái quy chế của mình đưa ra, sắp xét tất cả đồ thân trai sau này, nó sẽ dùng công nghệ AI để làm việc hết.
+[ 1861.9- 1865.9] Nên chỉ còn một cái lỗi trong hệ thống quy chế của mình thôi.
+[ 1865.9- 1870.9] Thực quy chế của mình là lỗi là nó sẽ báo lỗi và nó cảnh báo và đưa ra cái mức độ giá đù.
+[ 1870.9- 1872.9] Và hiện nay một anh đang bị hướng.
+[ 1872.9- 1874.9] Bây giờ nó kết rồi đấy, đợt này nó kết rồi đấy.
+[ 1874.9- 1880.9] Thế sắp tới có bảo vệ tập bỏng đi, em xin mời gặp xem là có nêu không?
+[ 1880.9- 1886.9] Không thì chắc chắn là có, nhưng mà để được tương viên đó, tương viên đó mà cũng tương viên bỏ bỏng hoạt đi.
+[ 1886.9- 1887.9] Vâng.
+[ 1887.9- 1890.9] Vậy đó anh sẽ định, chắc là không có cung cấp cho em được bảo vệ đó.
+[ 1890.9- 1892.9] Không cung cấp được, nhưng mình sẽ cung cấp cho anh.
+[ 1892.9- 1895.9] Cung đi ra, tương viên đó là tương viên đó sẽ làm gì.
+[ 1895.9- 1898.9] Còn bảo vệ của bảo vệ đó thì tương viên đó bỏ bỏng hoạt đi.
+[ 1898.9- 1900.9] Đợt này nó dùng AI lúc khác rồi, chỉ biết.
+[ 1900.9- 1901.9] Đúng rồi.
+[ 1901.9- 1904.9] Còn tiếp theo thì chúng ta có thể làm về đăng, phải không?
+[ 1904.9- 1906.9] Chúng ta có thể làm về nhân trông.
+[ 1906.9- 1908.9] Anh đang chạy lộ vô với nhau.
+[ 1908.9- 1912.9] Còn cứ gì thì lúc đấy thì phải hợp, phải chạy lộ thêm.
+[ 1913.9- 1915.0] Về nhân công có gì hình công?
+[ 1915.0- 1916.0] Không, nhất chứ.
+[ 1916.0- 1918.0] Qua anh tâm sự bản này nhiều không hả?
+[ 1918.0- 1920.0] Hôm nay em rõ hơn.
+[ 1920.0- 1928.0] Cái lộ dung này thì để em rả-sot lại, xem một chút nữa, cần yêu cầu thông tin gì nữa để em đợi anh đăng tiếp.
+[ 1929.6- 1932.6] Vậy thì cấp không phải hoàn thiện lại cái lộ dung hợp đồng lại?
+[ 1932.6- 1935.6] Bộ xung đồ đây để được thì người ta trình cho tổng đốc.
+[ 1935.6- 1938.6] Không nhất là để trình, trình hợp đồng lại cho tổng đốc trong kỳ sáng nay.
+[ 1938.6- 1940.6] Tổng đốc thì còn thời gian vào sáng nay thôi.
+[ 1940.6- 1942.6] Nếu kỳ thì lần nữa là ngày mai.
+[ 1942.6- 1944.6] Anh Chúng cũng nói em rà này xem một lộ dung hợp đồng thể hiện.
+[ 1944.6- 1945.6] Đúng chưa?
+[ 1945.6- 1948.6] Để mà trình hợp đồng trước, còn cái kia thì cứ thực hiện tiếp.
+[ 1948.6- 1949.6] Vâng.
+[ 1949.6- 1950.6] Cũng quen nhé.
+[ 1950.6- 1952.6] Có gì là cho đổi thêm.
+[ 1952.6- 1955.6] Còn gì thì nói cho em thêm.
+[ 1961.9- 1963.9] Rồi, đang ngồi làm cho xong cái hợp đồng kìa.

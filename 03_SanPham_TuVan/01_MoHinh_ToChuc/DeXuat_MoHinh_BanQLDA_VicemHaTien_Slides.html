@@ -1,0 +1,816 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Thuyết trình: Đề xuất Mô hình Tổ chức Ban QLDA - VICEM Hà Tiên</title>
+
+    <!-- Reveal.js CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reset.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.css">
+    
+    <!-- FontAwesome & Google Fonts (Optional for background system fonts, but we use Times New Roman as primary) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom Editorial Times New Roman Theme -->
+    <style>
+        :root {
+            /* Font định dạng Times New Roman làm chủ đạo */
+            --r-main-font: 'Times New Roman', Times, Baskerville, Georgia, serif;
+            --r-heading-font: 'Times New Roman', Times, Baskerville, Georgia, serif;
+            
+            /* Tone màu cao cấp phong cách báo cáo McKinsey/Báo cáo chính trị */
+            --r-background-color: #0F172A; /* Xanh Navy sâu sang trọng */
+            --r-main-color: #F1F5F9;       /* Chữ màu trắng sữa dịu mắt */
+            --r-heading-color: #FFFFFF;
+            --r-link-color: #38BDF8;
+            
+            /* Bảng màu bổ trợ */
+            --color-primary: #38BDF8;   /* Sky Blue */
+            --color-accent: #F59E0B;    /* Vàng kim ấm / VICEM Orange */
+            --color-success: #34D399;   /* Mint Green */
+            --color-danger: #F87171;    /* Coral Red */
+            --color-warning: #FB7185;   /* Rose */
+            --color-card-bg: rgba(30, 41, 59, 0.75);
+            --color-border: rgba(148, 163, 184, 0.2);
+        }
+
+        .reveal {
+            font-family: var(--r-main-font);
+            color: var(--r-main-color);
+            background-color: var(--r-background-color);
+        }
+
+        /* Slide layout styles */
+        .reveal .slides {
+            text-align: left;
+        }
+
+        /* Chữ to lên và giãn cách dòng rộng rãi */
+        .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+            color: var(--r-heading-color);
+            font-family: var(--r-heading-font);
+            font-weight: bold;
+            text-transform: none;
+            letter-spacing: 0.02em;
+            margin-bottom: 0.5em;
+        }
+
+        .reveal h1 { 
+            font-size: 2.8em; 
+            line-height: 1.2; 
+            text-shadow: 0 4px 12px rgba(0,0,0,0.5);
+        }
+        
+        .reveal h2 { 
+            font-size: 2.1em; 
+            line-height: 1.3; 
+            border-bottom: 3px double var(--color-accent); 
+            padding-bottom: 12px; 
+            display: block; 
+            margin-bottom: 1em; 
+            letter-spacing: 0.03em;
+        }
+        
+        .reveal h3 { 
+            font-size: 1.45em; 
+            color: var(--color-accent); 
+            margin-top: 0.5em;
+            line-height: 1.3;
+        }
+        
+        .reveal h4 { 
+            font-size: 1.25em; 
+            color: #94A3B8; 
+            font-style: italic;
+        }
+
+        .reveal p, .reveal li {
+            line-height: 1.8; /* Giãn cách dòng thoáng hơn */
+            font-size: 1.05em; /* Tăng cỡ chữ tổng thể */
+            color: #E2E8F0;
+            letter-spacing: 0.01em;
+        }
+
+        /* Điểm nhấn chữ viết hoa đậm */
+        .highlight-bold {
+            font-weight: bold;
+            color: #FFFFFF;
+        }
+
+        .text-gradient-gold {
+            background: linear-gradient(135deg, #FDE68A 0%, #F59E0B 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .text-gradient-sky {
+            background: linear-gradient(135deg, #BAE6FD 0%, #38BDF8 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* Layout Grid */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            align-items: stretch;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 24px;
+            align-items: stretch;
+        }
+
+        .card {
+            background: var(--color-card-bg);
+            border: 1px solid var(--color-border);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 12px 36px -12px rgba(0,0,0,0.6);
+            backdrop-filter: blur(10px);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: var(--color-primary);
+        }
+
+        .card.accent::before { background: var(--color-accent); }
+        .card.success::before { background: var(--color-success); }
+        .card.danger::before { background: var(--color-danger); }
+
+        /* Danh sách có icon đẹp, rõ ràng */
+        ul.custom-list {
+            list-style: none;
+            padding-left: 0;
+            margin: 15px 0;
+        }
+
+        ul.custom-list li {
+            position: relative;
+            padding-left: 35px;
+            margin-bottom: 16px;
+            font-size: 0.98em;
+            line-height: 1.7;
+        }
+
+        ul.custom-list li i {
+            position: absolute;
+            left: 5px;
+            top: 6px;
+            color: var(--color-primary);
+            font-size: 16px;
+        }
+
+        ul.custom-list.accent li i { color: var(--color-accent); }
+        ul.custom-list.success li i { color: var(--color-success); }
+        ul.custom-list.danger li i { color: var(--color-danger); }
+
+        /* Bảng biểu được chau chuốt kỹ càng, chữ to và rõ */
+        .reveal table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85em; /* Tăng cỡ chữ bảng */
+            margin: 15px 0;
+            line-height: 1.6;
+        }
+
+        .reveal th {
+            background-color: rgba(56, 189, 248, 0.15) !important;
+            border: 2px solid rgba(255, 255, 255, 0.15) !important;
+            color: #FFFFFF !important;
+            font-weight: bold;
+            padding: 14px 18px !important;
+            font-size: 1em;
+        }
+
+        .reveal td {
+            border: 1px solid rgba(255, 255, 255, 0.08) !important;
+            padding: 14px 18px !important;
+            background-color: rgba(30, 41, 59, 0.45);
+        }
+
+        .reveal tr:nth-child(even) td {
+            background-color: rgba(30, 41, 59, 0.75);
+        }
+
+        /* Pill Badge */
+        .badge {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 4px; /* Dạng thẻ vuông cổ điển hợp Times */
+            font-size: 0.75em;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 15px;
+        }
+
+        .badge-primary { background: rgba(56, 189, 248, 0.15); color: #38BDF8; border: 1px solid rgba(56, 189, 248, 0.35); }
+        .badge-accent { background: rgba(245, 158, 11, 0.15); color: #FBBF24; border: 1px solid rgba(245, 158, 11, 0.35); }
+        .badge-success { background: rgba(52, 211, 153, 0.15); color: #34D399; border: 1px solid rgba(52, 211, 153, 0.35); }
+        .badge-danger { background: rgba(248, 113, 113, 0.15); color: #F87171; border: 1px solid rgba(248, 113, 113, 0.35); }
+
+        /* Cover Slide */
+        .cover-slide {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%;
+            position: relative;
+            border-left: 8px double var(--color-accent);
+            padding-left: 40px;
+        }
+
+        .metadata-box {
+            border-top: 1px solid rgba(255, 255, 255, 0.15);
+            margin-top: 50px;
+            padding-top: 25px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            font-size: 0.8em;
+            color: #94A3B8;
+        }
+
+        .footer-credit {
+            position: absolute;
+            bottom: -50px;
+            left: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.7em;
+            color: #475569;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            padding-top: 12px;
+            font-family: var(--r-main-font);
+        }
+
+        .highlight-number {
+            font-size: 2.8em;
+            font-weight: bold;
+            line-height: 1;
+            margin-bottom: 8px;
+            color: var(--color-accent);
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- SLIDE 1: BÌA THUYẾT TRÌNH -->
+            <section data-transition="fade-in slide-out">
+                <div class="cover-slide">
+                    <div class="badge badge-accent"><i class="fa-solid fa-scale-balanced"></i> Nghiên cứu & Đề xuất Mô hình Tổ chức</div>
+                    <h1>ĐỀ XUẤT PHƯƠNG ÁN TỔ CHỨC<br><span class="text-gradient-gold">BAN QUẢN LÝ DỰ ÁN</span></h1>
+                    <p style="font-size: 1.3em; color: #CBD5E1; margin-top: 15px; font-weight: bold; font-style: italic;">
+                        Thích ứng Luật Xây dựng số 135/2025/QH15 & Tối ưu hóa Hiệu quả Vận hành
+                    </p>
+                    <p style="font-size: 1.1em; color: #94A3B8; margin-top: 5px;">
+                        Chủ đầu tư: Công ty Cổ phần Xi măng VICEM Hà Tiên
+                    </p>
+                    
+                    <div class="metadata-box">
+                        <div>
+                            <strong>Đơn vị thực hiện:</strong> Công ty CP Công nghệ và Tư vấn CIC <br>
+                            <strong>Hợp đồng tư vấn:</strong> HĐ_013/CSS_CIC_2026
+                        </div>
+                        <div style="text-align: right;">
+                            <strong>Thời gian lập:</strong> Tháng 06/2026 <br>
+                            <strong>Bản cập nhật:</strong> Luật XD 135/2025 & NĐ 206, 207/2026
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SLIDE 2: ĐẶT VẤN ĐỀ & SỰ CẦN THIẾT -->
+            <section>
+                <h2>1. ĐẶT VẤN ĐỀ & SỰ CẦN THIẾT CỦA ĐỀ XUẤT</h2>
+                <div class="grid-2">
+                    <div class="card accent">
+                        <div class="badge badge-accent">Thay đổi pháp lý mang tính bước ngoặt</div>
+                        <p style="margin-bottom: 15px;"><strong>Luật Xây dựng số 135/2025/QH15</strong> có hiệu lực từ ngày <strong>01/07/2026</strong> yêu cầu điều chỉnh:</p>
+                        <ul class="custom-list accent">
+                            <li><i class="fa-solid fa-circle-check"></i> Đổi mới hình thức tổ chức quản lý dự án (Điều 32).</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Rà soát lại điều kiện năng lực hành nghề và thủ tục.</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Đẩy mạnh số hóa quy trình (BIM & CDE, Nhật ký điện tử).</li>
+                        </ul>
+                    </div>
+
+                    <div class="card">
+                        <div class="badge badge-primary">Mục tiêu tái cấu trúc vận hành</div>
+                        <p style="margin-bottom: 15px;">Giải quyết các vấn đề nội tại của mô hình Ban QLDA hiện hữu:</p>
+                        <ul class="custom-list">
+                            <li><i class="fa-solid fa-circle-check"></i> Tháo gỡ các <span class="highlight-bold">điểm nghẽn</span> kéo dài thời gian trình duyệt hồ sơ.</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Phân định ranh giới phối hợp ngang giữa Ban QLDA và Văn phòng Công ty.</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Thiết lập hạn mức phân cấp, ủy quyền hợp lý nhằm tự chủ và bảo toàn vốn nhà nước.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 2/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 3: PHÂN LOẠI NGUỒN VỐN & PHẠM VI ÁP DỤNG PHÁP LUẬT -->
+            <section>
+                <h2>2. TÍNH CHẤT NGUỒN VỐN & PHẠM VI ÁP DỤNG</h2>
+                <div class="card" style="margin-bottom: 20px;">
+                    <div class="badge badge-primary">Vị thế pháp lý của VICEM Hà Tiên</div>
+                    <p style="font-size: 1.05em; margin: 0; line-height: 1.7;">
+                        Tổng công ty VICEM (100% vốn nhà nước) sở hữu **79,69%** vốn điều lệ tại VICEM Hà Tiên. Theo Luật Doanh nghiệp 2020, VICEM Hà Tiên là **Doanh nghiệp do doanh nghiệp nhà nước nắm giữ trên 50% vốn điều lệ (Doanh nghiệp F2)**.
+                    </p>
+                </div>
+                <div class="grid-2">
+                    <div class="card success">
+                        <h3>Áp dụng Luật Đấu thầu</h3>
+                        <p style="font-size: 0.95em;">
+                            Chịu sự điều chỉnh bắt buộc của Luật Đấu thầu 22/2023/QH15 đối với các dự án đầu tư phát triển (theo Điều 2 Khoản 2 điểm a). Tuy nhiên, mua sắm thường xuyên phục vụ sản xuất kinh doanh được tự quyết định nhằm tăng tính chủ động.
+                        </p>
+                    </div>
+
+                    <div class="card accent">
+                        <h3>Áp dụng Luật Xây dựng 135/2025</h3>
+                        <p style="font-size: 0.95em;">
+                            Vốn dự án là **Vốn của doanh nghiệp có vốn nhà nước** (không thuộc Luật Đầu tư công 2024). Do đó:
+                            <br>&bull; Được tham khảo Nghị định 206/2026/NĐ-CP về quản lý chi phí (không bắt buộc áp dụng cứng nhắc toàn bộ).
+                            <br>&bull; Bắt buộc áp dụng NĐ 207/2026/NĐ-CP về chất lượng công trình.
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 3/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 4: ĐIỀU 32 LUẬT XD 135/2025 VÀ ĐIỀU KHOẢN CHUYỂN TIẾP -->
+            <section>
+                <h2>3. HÌNH THỨC QLDA THEO LUẬT XD MỚI 135/2025</h2>
+                <div class="grid-2">
+                    <div class="card">
+                        <div class="badge badge-primary">Điều 32: Hai nhóm hình thức quản lý chính</div>
+                        <ul class="custom-list">
+                            <li><i class="fa-solid fa-square-poll-vertical"></i> <strong>a) Ban QLDA đầu tư xây dựng chuyên ngành/khu vực:</strong> Là đơn vị độc lập, có năng lực thực hiện tư vấn quản lý dự án.</li>
+                            <li><i class="fa-solid fa-users-gear"></i> <strong>b) Chủ đầu tư tự tổ chức quản lý dự án thông qua:</strong>
+                                <br>&bull; Thành lập Ban QLDA trực thuộc (đơn vị phụ thuộc, không có tư cách pháp nhân).
+                                <br>&bull; Thuê nhà thầu tư vấn quản lý dự án chuyên nghiệp.
+                                <br>&bull; Tự thực hiện quản lý dự án (sử dụng bộ máy kiêm nhiệm).
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="card accent">
+                        <div class="badge badge-accent">Khoản 6 Điều 95: Điều khoản chuyển tiếp</div>
+                        <p style="font-size: 0.95em; line-height: 1.7;">
+                            Các Ban QLDA được thành lập trước ngày 01/07/2026 thì **không bắt buộc phải chuyển đổi hình thức** tổ chức quản lý dự án.
+                        </p>
+                        <h3 style="margin-top: 15px; font-size: 1.1em;">Ý nghĩa chiến lược cho VICEM Hà Tiên:</h3>
+                        <p style="font-size: 0.95em; line-height: 1.7; color: #CBD5E1;">
+                            Công ty không bị áp lực pháp lý bắt buộc phải thay đổi mô hình, nhưng chủ động cải tổ theo hướng **thành lập Ban trực thuộc (PA1) + thuê tư vấn linh hoạt (PA3)** sẽ giúp tận dụng tối đa quyền tự chủ của chủ đầu tư theo luật mới.
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 4/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 5: BÀI HỌC KINH NGHIỆM TỪ SAI PHẠM TRONG HỆ THỐNG -->
+            <section>
+                <h2>4. BÀI HỌC VỀ HỆ THỐNG KIỂM SOÁT NỘI BỘ</h2>
+                <div class="card danger" style="margin-bottom: 20px;">
+                    <div class="badge badge-danger"><i class="fa-solid fa-triangle-exclamation"></i> Vụ án tại dự án Trung tâm Điều hành VICEM (Phạm Hùng)</div>
+                    <div style="font-size: 0.95em; line-height: 1.7;">
+                        Cơ quan Cảnh sát điều tra khởi tố 14 bị can (cựu Chủ tịch HĐTV, TGĐ, và cựu Giám đốc Ban QLDA VICEM) về tội vi phạm quy định quản lý tài sản nhà nước gây thất thoát hơn **381,6 tỷ đồng**.
+                    </div>
+                </div>
+                <div class="grid-2">
+                    <div class="card danger">
+                        <h3 style="font-size: 1.15em; margin-bottom: 10px;"><i class="fa-solid fa-circle-xmark"></i> Sai phạm cốt lõi trong hệ thống cũ</h3>
+                        <ul class="custom-list danger" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-xmark"></i> Lập khống các chỉ tiêu tài chính để duyệt đầu tư.</li>
+                            <li><i class="fa-solid fa-xmark"></i> Thông đồng với nhà thầu trong công tác đấu thầu.</li>
+                            <li><i class="fa-solid fa-xmark"></i> Cơ chế thẩm định chỉ mang tính chất hình thức, thiếu kiểm soát độc lập, tập trung quyền lực vào một cá nhân.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card success">
+                        <h3 style="font-size: 1.15em; margin-bottom: 10px;"><i class="fa-solid fa-circle-check"></i> Giải pháp cho VICEM Hà Tiên</h3>
+                        <ul class="custom-list success" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-check"></i> **Cơ chế kiểm soát chéo đa tầng:** Hồ sơ đấu thầu, thanh toán phải được đơn vị độc lập thẩm định trước khi duyệt.</li>
+                            <li><i class="fa-solid fa-check"></i> **Phân tách chức năng rõ ràng:** Phân biệt rõ chức năng "lập hồ sơ" (Ban QLDA) và "thẩm định/kiểm soát" (Phòng chuyên môn).</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 5/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 6: ĐẶC TRƯNG DANH MỤC 32 DỰ ÁN HÀ TIÊN -->
+            <section>
+                <h2>5. ĐẶC TRƯNG DANH MỤC DỰ ÁN ĐẦU TƯ</h2>
+                <p style="margin-bottom: 15px;">Danh mục 32 dự án tại VICEM Hà Tiên có các đặc trưng chi phối mô hình tổ chức QLDA:</p>
+                <div class="grid-3">
+                    <div class="card accent">
+                        <h3 style="font-size: 1.2em; margin-bottom: 10px;"><i class="fa-solid fa-pyramid"></i> Cấu trúc kim tự tháp</h3>
+                        <p style="font-size: 0.9em; line-height: 1.7;">
+                            Dự án nhóm C chiếm phần lớn (16 DA - 50%), tiếp theo là nhóm B (12 DA) và nhóm A (4 DA).
+                            <br><span style="color: #94A3B8; font-style: italic;">&rArr; Yêu cầu quy trình quản lý phải tinh gọn, linh hoạt cho nhóm dự án nhỏ.</span>
+                        </p>
+                    </div>
+
+                    <div class="card">
+                        <h3 style="font-size: 1.2em; margin-bottom: 10px;"><i class="fa-solid fa-screwdriver-wrench"></i> Đa ngành kỹ thuật</h3>
+                        <p style="font-size: 0.9em; line-height: 1.7;">
+                            Trải rộng từ dây chuyền xi măng công nghệ cao đến khai thác mỏ nguyên liệu, logistics cảng biển, năng lượng xanh và bảo vệ môi trường.
+                            <br><span style="color: #94A3B8; font-style: italic;">&rArr; Nhân sự Ban không thể tự đáp ứng hết mọi chuyên môn kỹ thuật sâu.</span>
+                        </p>
+                    </div>
+
+                    <div class="card success">
+                        <h3 style="font-size: 1.2em; margin-bottom: 10px;"><i class="fa-solid fa-location-dot"></i> Phân tán địa lý</h3>
+                        <p style="font-size: 0.9em; line-height: 1.7;">
+                            Các dự án phân bố xa nhau: Kiên Lương, Bình Phước, Long An, Phú Hữu, Cam Ranh.
+                            <br><span style="color: #94A3B8; font-style: italic;">&rArr; Cần cơ chế phái cử nhân sự giám sát hiện trường linh hoạt.</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 6/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 7: RÀ SOÁT NĂNG LỰC & CHỨNG CHỈ HÀ NGHỀ NHÂN SỰ -->
+            <section>
+                <h2>6. ĐÁNH GIÁ NĂNG LỰC NHÂN SỰ BAN QLDA</h2>
+                <div class="grid-2">
+                    <div class="card">
+                        <div class="badge badge-primary">Hiện trạng định biên nhân sự</div>
+                        <ul class="custom-list" style="font-size: 0.95em;">
+                            <li><i class="fa-solid fa-users"></i> Định biên được phê duyệt: **38 người** (Thực tế bố trí **35 người**, thiếu 03 vị trí).</li>
+                            <li><i class="fa-solid fa-user-minus"></i> Cảnh báo nghỉ hưu: 01 Phó phòng Kỹ thuật - Tổng hợp nghỉ hưu từ T08/2026, nhân sự giảm còn 34 người.</li>
+                            <li><i class="fa-solid fa-id-card"></i> **Tình trạng chứng chỉ:** Có đầy đủ phổ chứng chỉ QLDA, giám sát, đấu thầu, định giá. Tuy nhiên, nhiều chứng chỉ đã hoặc đang **hết hạn trong giai đoạn 2024–2025**.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card accent">
+                        <div class="badge badge-accent">Phân tích khoảng trống năng lực (Gap Analysis)</div>
+                        <p style="font-size: 0.95em; line-height: 1.7; margin-bottom: 10px;">
+                            Khoảng trống năng lực hiện tại của đội ngũ Ban QLDA bao gồm:
+                        </p>
+                        <ul class="custom-list accent" style="font-size: 0.9em;">
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> Thiếu chứng chỉ QLDA Hạng I đối với các dự án lớn nhóm A.</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> Năng lực quản lý hợp đồng quốc tế (FIDIC) còn hạn chế.</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> Kỹ năng ứng dụng công nghệ mới (BIM/CDE) chưa đồng đều.</li>
+                        </ul>
+                        <p style="font-size: 0.9em; font-style: italic; color: #94A3B8; margin-top: 5px;">
+                            &rArr; Không đủ điều kiện tự vận hành Ban độc lập chuyên ngành (PA2). Chỉ phù hợp duy trì Ban trực thuộc (PA1) kết hợp đào tạo và thuê tư vấn ngoài.
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 7/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 8: NÚT THẮT QUY TRÌNH NGHIỆP VỤ HIỆN HÀNH -->
+            <section>
+                <h2>7. CÁC NÚT THẮT TRONG QUY TRÌNH HIỆN HÀNH</h2>
+                <div class="grid-2">
+                    <div class="card danger">
+                        <h3 style="font-size: 1.15em; margin-bottom: 12px;"><i class="fa-solid fa-clock"></i> Chậm trễ thủ tục phê duyệt giấy tờ</h3>
+                        <ul class="custom-list danger" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-ban"></i> **Phê duyệt đa cấp tuần tự (N1, N2):** Mọi tờ trình qua nhiều cấp ký tắt bằng bản in giấy, tạo độ trễ 3-6 tháng/dự án chuẩn bị đầu tư.</li>
+                            <li><i class="fa-solid fa-ban"></i> **Thẩm định 3 lần trong đấu thầu (N3):** HSMT, K quả đánh giá KT, KQLCNT luân chuyển giấy mất 45-60 ngày/gói thầu.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card danger">
+                        <h3 style="font-size: 1.15em; margin-bottom: 12px;"><i class="fa-solid fa-triangle-exclamation"></i> Trùng lặp & Đứt gãy hạch toán tài chính</h3>
+                        <ul class="custom-list danger" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-ban"></i> **Kiểm tra chứng từ trùng lặp (N4):** KTDA của Ban QLDA đã phê duyệt chi tiết nhưng Phòng TC-KT Công ty lại kiểm tra lại từ đầu, gây trễ dòng tiền.</li>
+                            <li><i class="fa-solid fa-ban"></i> **Mất kết nối thông tin quyết toán (N5):** Hệ thống hạch toán chi phí Ban và nguồn vốn cấp của Công ty lệch nhau, quyết toán trễ 3-6 tháng.</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="card warning" style="margin-top: 20px; padding: 15px 25px;">
+                    <p style="font-size: 0.9em; margin: 0; line-height: 1.7;">
+                        <i class="fa-solid fa-circle-info" style="color: var(--color-accent); margin-right: 8px;"></i>
+                        **Đứt gãy công nghệ (N7, N8):** SharePoint (lưu trữ file PDF scan tĩnh), ERP Oracle EBS và phần mềm QLDA chạy độc lập. Mặc dù công ty đã hợp pháp hóa chữ ký số nội bộ (QĐ 3178), QLDA vẫn in giấy ký tay tuần tự rồi scan ngược lại lên hệ thống.
+                    </p>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 8/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 9: CHỒNG LẤN CHỨC NĂNG QUẢN LÝ ĐTXD CẤP CÔNG TY -->
+            <section>
+                <h2>8. CHỒNG LẤN CHỨC NĂNG ĐTXD TRONG HỆ THỐNG</h2>
+                <p style="margin-bottom: 15px;">Đối chiếu chức năng nhiệm vụ theo các quyết định giao quyền tại VICEM Hà Tiên:</p>
+                <div class="grid-2">
+                    <div class="card danger">
+                        <div class="badge badge-danger">Chồng lấn ranh giới thực hiện</div>
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px;">Phòng Kế hoạch Chiến lược (KHCL) vs Ban QLDA</h3>
+                        <ul class="custom-list danger" style="font-size: 0.9em;">
+                            <li><i class="fa-solid fa-xmark"></i> **Phòng KHCL (QĐ 1471):** Giao chức năng quản lý ĐTXD toàn Công ty và trực tiếp triển khai các dự án "ngoài phạm vi phân cấp" của Ban QLDA và các nhà máy.</li>
+                            <li><i class="fa-solid fa-xmark"></i> Ranh giới phân công ĐTXD giữa 3 chủ thể: KHCL - Ban QLDA - Nhà máy/Trạm nghiền chưa rõ ràng theo tiêu chí định lượng khách quan.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card success">
+                        <div class="badge badge-success">Sự phân vai hợp lý của phòng chức năng</div>
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px;">Phòng TC-KT và Phòng Kỹ thuật</h3>
+                        <ul class="custom-list success" style="font-size: 0.9em;">
+                            <li><i class="fa-solid fa-check"></i> **Phòng Tài chính Kế toán (QĐ 3122):** Thẩm định tài chính dự án, lập quyết định giao TSCĐ và thẩm định hợp đồng. Đây là kiểm soát nghiệp vụ hợp lý.</li>
+                            <li><i class="fa-solid fa-check"></i> **Phòng Kỹ thuật (QĐ 3122):** Phụ trách công nghệ sản xuất, không chồng lấn với QLDA của Ban.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 9/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 10: SO SÁNH PHƯƠNG ÁN TỔ CHỨC BAN QLDA -->
+            <section>
+                <h2>9. ĐÁNH GIÁ SO SÁNH 3 PHƯƠNG ÁN ĐỀ XUẤT</h2>
+                <div class="grid-3" style="margin-bottom: 15px;">
+                    <div class="card accent">
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px;">PA 1: Ban trực thuộc (Đơn vị phụ thuộc)</h3>
+                        <p style="font-size: 0.88em; line-height: 1.6;">
+                            Ban QLDA là bộ phận trực thuộc, dùng tư cách pháp nhân Công ty.
+                            <br><strong style="color: var(--color-success);">Ưu điểm:</strong> Chi phí thấp (~2-3 tỷ/năm), dễ kiểm soát rủi ro vốn nhà nước qua cơ chế 2 lớp, tận dụng ERP và hạ tầng Công ty.
+                        </p>
+                    </div>
+
+                    <div class="card">
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px;">PA 2: Ban chuyên ngành (Pháp nhân độc lập)</h3>
+                        <p style="font-size: 0.88em; line-height: 1.6;">
+                            Ban QLDA có tư cách pháp nhân, con dấu, tài khoản riêng, tự chủ hoàn toàn.
+                            <br><strong style="color: var(--color-danger);">Nhược điểm:</strong> Chi phí bộ máy lớn (~5-7 tỷ/năm), rủi ro tập trung quyền lực cao, phức tạp về pháp lý và tích hợp ERP.
+                        </p>
+                    </div>
+
+                    <div class="card success">
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px;">PA 3: Hỗn hợp (Bộ máy kiêm nhiệm + Tư vấn ngoài)</h3>
+                        <p style="font-size: 0.88em; line-height: 1.6;">
+                            Ban kiêm nhiệm cho dự án nhỏ, thuê tư vấn QLDA chuyên nghiệp cho dự án lớn.
+                            <br><strong style="color: var(--color-success);">Ưu điểm:</strong> Tiếp cận năng lực cao trên thị trường, không nuôi bộ máy khi hết dự án.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card" style="padding: 15px 25px; text-align: center;">
+                    <span style="font-weight: bold; font-size: 1.1em; color: var(--color-accent);">
+                        Kết luận chấm điểm: PA1 (4.17/5) > PA3 (3.72/5) > PA2 (2.57/5).
+                    </span>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 10/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 11: MÔ HÌNH KHUYẾN NGHỊ KẾT HỢP PA1 + PA3 -->
+            <section>
+                <h2>10. MÔ HÌNH TỔ CHỨC KHUYẾN NGHỊ</h2>
+                <div class="card success" style="margin-bottom: 20px;">
+                    <h3 style="margin: 0; color: #FFFFFF; font-size: 1.25em;"><i class="fa-solid fa-code-merge"></i> Đề xuất Mô hình Kết hợp: PA1 làm nền tảng + Cơ chế PA3 cho dự án lớn</h3>
+                </div>
+                <div class="grid-2">
+                    <div class="card">
+                        <div class="badge badge-primary">Phân cấp quản lý dự án rõ ràng</div>
+                        <p style="font-size: 0.9em; line-height: 1.7; margin-bottom: 10px;">
+                            Giải quyết chồng lấn giữa KHCL - Ban QLDA - Nhà máy bằng cách phân cấp theo **Loại báo cáo đầu tư** (Luật XD 135/2025):
+                        </p>
+                        <ul class="custom-list" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-circle-check"></i> **Ban QLDA chủ trì:** Các dự án lớn/phức tạp yêu cầu lập **Báo cáo nghiên cứu khả thi (BCNCKT)**.</li>
+                            <li><i class="fa-solid fa-circle-check"></i> **Đơn vị sản xuất (Nhà máy/Trạm) tự thực hiện:** Dự án cải tạo phụ trợ nhỏ chỉ cần **Báo cáo Kinh tế - Kỹ thuật (BCKTKT)** quanh địa bàn.</li>
+                            <li><i class="fa-solid fa-circle-check"></i> **Phòng KHCL:** Làm đầu mối kế hoạch vĩ mô và hậu kiểm hiệu quả, không trực tiếp thực hiện dự án.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card success">
+                        <div class="badge badge-success">Cơ chế thuê tư vấn chuyên nghiệp</div>
+                        <p style="font-size: 0.95em; line-height: 1.7;">
+                            Đối với dự án đầu tư lớn (quy mô trên 200 tỷ đồng) hoặc dự án có tính chất kỹ thuật/công nghệ mới phức tạp (năng lượng xanh, đồng xử lý chất thải):
+                            <br>&bull; **Ban QLDA đóng vai trò Chủ đầu tư** để kiểm soát tiến độ, quản lý hợp đồng pháp lý và dòng tiền thanh toán.
+                            <br>&bull; **Thuê liên danh tư vấn quản lý dự án chuyên nghiệp** bên ngoài chịu trách nhiệm giám sát chất lượng kỹ thuật, an toàn lao động tại hiện trường.
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 11/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 12: CHI TIẾT MA TRẬN PHÂN CẤP QUYẾT ĐỊNH CHO BAN QLDA -->
+            <section>
+                <h2>11. MA TRẬN PHÂN CẤP QUYẾT ĐỊNH MỚI</h2>
+                <p style="margin-bottom: 10px;">Đề xuất hạn mức phân cấp, ủy quyền cho Giám đốc Ban QLDA để rút ngắn quy trình phê duyệt:</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nội dung công việc</th>
+                            <th style="color: var(--color-accent)">Giám đốc Ban QLDA</th>
+                            <th>Tổng Giám đốc</th>
+                            <th>Hội đồng Quản trị</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Phê duyệt thiết kế & dự toán</strong></td>
+                            <td style="color: var(--color-accent); font-weight:bold">Hạng mục phụ trợ & cải tạo &lt; 5 tỷ đồng</td>
+                            <td>Dự án nhóm B, C thuộc thẩm quyền quyết định</td>
+                            <td>Dự án nhóm A hoặc dự án lớn vượt thẩm quyền TGĐ</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Chỉ định thầu / Chào hàng cạnh tranh</strong></td>
+                            <td style="color: var(--color-accent); font-weight:bold">Phê duyệt HSYC/KQLCNT gói thầu &lt; 3 tỷ đồng (Theo dự thảo NĐ 214)</td>
+                            <td>Phê duyệt gói thầu từ 3 tỷ đến hạn mức phân cấp</td>
+                            <td>Gói thầu lớn thuộc thẩm quyền HĐQT phê duyệt</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Xử lý phát sinh tại hiện trường</strong></td>
+                            <td style="color: var(--color-accent); font-weight:bold">Phát sinh kỹ thuật &lt; 500 triệu đồng (Không vượt dự toán gói thầu)</td>
+                            <td>Phê duyệt phát sinh trong phạm vi dự toán dự án</td>
+                            <td>Phê duyệt phát sinh làm vượt TMĐT dự án ban đầu</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Phê duyệt thanh toán hợp đồng</strong></td>
+                            <td style="color: var(--color-accent); font-weight:bold">Ký lệnh thanh toán đợt &lt; 10 tỷ đồng (Đúng điều khoản HĐ)</td>
+                            <td>Ký phê duyệt thanh toán đợt &ge; 10 tỷ đồng</td>
+                            <td>Giám sát thực hiện thông qua báo cáo định kỳ</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 12/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 13: QUY CHẾ PHỐI HỢP NGANG & SLA XỬ LÝ -->
+            <section>
+                <h2>12. SLA PHỐI HỢP NGANG & QUY CHẾ THANH TOÁN</h2>
+                <div class="grid-2">
+                    <div class="card success">
+                        <div class="badge badge-success">Cải tiến quy trình thanh toán</div>
+                        <h3 style="font-size: 1.15em; margin-bottom: 12px;"><i class="fa-solid fa-circle-check"></i> Phân vai trách nhiệm, xóa bỏ trùng lặp:</h3>
+                        <ul class="custom-list success" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-check"></i> **Phòng Kế toán dự án (Ban QLDA):** Chịu trách nhiệm toàn bộ việc kiểm tra chi tiết tính pháp lý chứng từ, nghiệm thu chất lượng, khối lượng hoàn thành.</li>
+                            <li><i class="fa-solid fa-check"></i> **Phòng TC-KT Công ty:** Thực hiện vai trò kiểm soát ngân sách tổng thể (budget control) và cấp vốn chi trả. Không thực hiện kiểm tra chi tiết lại từ đầu.</li>
+                            <li><i class="fa-solid fa-bolt"></i> **SLA Thanh toán:** Rút ngắn tối đa thời gian thanh toán từ lúc nhận đủ hồ sơ của NT xuống còn **tối đa 07 ngày làm việc** (quy trình cũ 20-30 ngày).</li>
+                        </ul>
+                    </div>
+
+                    <div class="card accent">
+                        <div class="badge badge-accent">SLA Phản hồi hồ sơ trình ký</div>
+                        <h3 style="font-size: 1.15em; margin-bottom: 12px;"><i class="fa-solid fa-stopwatch"></i> Thời hạn phản hồi tối đa:</h3>
+                        <ul class="custom-list accent" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-chevron-right"></i> **Thẩm định HSMT & KQLCNT (Tổ Thẩm định):** Tối đa 05 ngày làm việc.</li>
+                            <li><i class="fa-solid fa-chevron-right"></i> **Rà soát pháp lý hợp đồng (Pháp chế):** Tối đa 03 ngày làm việc.</li>
+                            <li><i class="fa-solid fa-chevron-right"></i> **Nghiệm thu bàn giao tài sản (Nhà máy):** Tối đa 07 ngày làm việc.</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> **Cơ chế Escalation:** Quá hạn SLA không có lý do chính đáng sẽ bị tự động ghi nhận điểm trừ KPI tháng và báo cáo TGĐ xử lý trực tiếp.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 13/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 14: SỐ HÓA E-WORKFLOW & TÍCH HỢP HỆ THỐNG CNTT SẴN CÓ -->
+            <section>
+                <h2>13. SỐ HÓA VÀ TÍCH HỢP HỆ THỐNG CNTT</h2>
+                <div class="card" style="margin-bottom: 20px;">
+                    <div class="badge badge-primary"><i class="fa-solid fa-cubes"></i> Tận dụng nền tảng CNTT sẵn có theo Quyết định số 3178/QĐ-HT1</div>
+                    <p style="font-size: 0.95em; line-height: 1.7; margin: 0;">
+                        Công ty đã có sẵn hệ thống **E-Office** để xử lý văn bản, hệ thống **ERP Oracle EBS** để quản trị kế toán tài chính, và phần mềm **QLDA** chuyên dụng. Điều 27.2.f QĐ 3178 quy định chữ ký số và phê duyệt trên ERP có giá trị pháp lý tương đương bản giấy.
+                    </p>
+                </div>
+                <div class="grid-2">
+                    <div class="card accent">
+                        <h3>Giải pháp E-Workflow & Chữ ký số</h3>
+                        <ul class="custom-list accent" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-arrow-right"></i> Thiết lập luồng trình duyệt hồ sơ QLDA (QT 34-36) hoàn toàn trên môi trường số của E-Office và phần mềm QLDA.</li>
+                            <li><i class="fa-solid fa-arrow-right"></i> Sử dụng chữ ký số cá nhân/tổ chức cho Giám đốc Ban, Tổ thẩm định, Pháp chế và Ban Tổng Giám đốc.</li>
+                            <li><i class="fa-solid fa-arrow-right"></i> Tự động kiểm soát tiến độ xử lý và cảnh báo khi quá hạn SLA quy định.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card">
+                        <h3>Tích hợp Dữ liệu Kế toán</h3>
+                        <ul class="custom-list" style="font-size: 0.88em;">
+                            <li><i class="fa-solid fa-arrow-right"></i> Liên kết module QLDA với module Tài chính của hệ thống ERP Oracle EBS.</li>
+                            <li><i class="fa-solid fa-arrow-right"></i> Đồng bộ tự động số liệu thanh toán thực tế của Ban QLDA và số liệu nguồn vốn cấp tại Công ty.</li>
+                            <li><i class="fa-solid fa-arrow-right"></i> Xóa bỏ hoàn toàn việc đối chiếu thủ công biểu mẫu quyết toán hoàn thành (Biểu 03/QTDA).</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 14/15</span>
+                </div>
+            </section>
+
+            <!-- SLIDE 15: LỘ TRÌNH TRIỂN KHAI 3 GIAI ĐOẠN -->
+            <section>
+                <h2>14. LỘ TRÌNH TRIỂN KHAI THỰC HIỆN</h2>
+                <div class="grid-3" style="margin-top: 15px;">
+                    <div class="card">
+                        <div class="highlight-number">01</div>
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px; color: #FFFFFF;">Giai đoạn 1: Chuẩn bị<br>(Quý III/2026)</h3>
+                        <ul class="custom-list" style="font-size: 0.75em; padding-left: 0;">
+                            <li><i class="fa-solid fa-angles-right"></i> Trình duyệt Quy chế phân cấp đầu tư & SLA ma trận ngang mới.</li>
+                            <li><i class="fa-solid fa-angles-right"></i> Kiện toàn định biên nhân sự Ban QLDA, đào tạo kỹ năng & gia hạn các chứng chỉ hành nghề hết hạn.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card accent">
+                        <div class="highlight-number" style="color: var(--color-accent)">02</div>
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px; color: #FFFFFF;">Giai đoạn 2: Thử nghiệm<br>(Quý IV/2026)</h3>
+                        <ul class="custom-list accent" style="font-size: 0.75em; padding-left: 0;">
+                            <li><i class="fa-solid fa-angles-right"></i> Cấu hình luồng phê duyệt e-workflow và ký số cho hồ sơ QLDA.</li>
+                            <li><i class="fa-solid fa-angles-right"></i> Triển khai thí điểm Môi trường dữ liệu chung **CDE/BIM 3D** cho 01 dự án nhóm B mới.</li>
+                        </ul>
+                    </div>
+
+                    <div class="card success">
+                        <div class="highlight-number" style="color: var(--color-success)">03</div>
+                        <h3 style="font-size: 1.1em; margin-bottom: 10px; color: #FFFFFF;">Giai đoạn 3: Chuẩn hóa<br>(Năm 2027)</h3>
+                        <ul class="custom-list success" style="font-size: 0.75em; padding-left: 0;">
+                            <li><i class="fa-solid fa-angles-right"></i> Đồng bộ tích hợp hoàn toàn ERP Oracle EBS và phần mềm CDE/BIM.</li>
+                            <li><i class="fa-solid fa-angles-right"></i> Áp dụng BIM bắt buộc cho toàn bộ danh mục công trình xây dựng mới của VICEM Hà Tiên.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="card" style="margin-top: 25px; padding: 15px; text-align: center;">
+                    <p style="font-weight: bold; font-size: 1.15em; color: var(--color-success); margin: 0;">
+                        <i class="fa-solid fa-shield-halved"></i> ĐẢM BẢO TUÂN THỦ PHÁP LÝ TUYỆT ĐỐI - NÂNG CAO TỐC ĐỘ DỰ ÁN - PHÒNG NGỪA THẤT THOÁT VỐN
+                    </p>
+                </div>
+                <div class="footer-credit">
+                    <span>Công ty CP Công nghệ và Tư vấn CIC</span>
+                    <span>Slide 15/15</span>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <!-- Reveal.js JS and Plugins via CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/plugin/notes/notes.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/plugin/markdown/markdown.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/plugin/highlight/highlight.min.js"></script>
+    
+    <script>
+        // Initialize Reveal.js với kích thước slide lớn hơn để chứa chữ to thoáng hơn
+        Reveal.initialize({
+            width: 1200,
+            height: 800,
+            margin: 0.08,
+            minScale: 0.2,
+            maxScale: 2.0,
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+            plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+        });
+    </script>
+</body>
+</html>
