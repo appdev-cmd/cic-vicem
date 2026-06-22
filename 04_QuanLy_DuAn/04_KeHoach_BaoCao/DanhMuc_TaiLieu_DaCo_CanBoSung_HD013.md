@@ -33,7 +33,7 @@
 
 | TT | Tài liệu | Ghi chú |
 |---|---|---|
-| 9 | Kế hoạch ĐTXD / danh mục dự án | Đã tiếp nhận một phần (xem mục B4) |
+| 9 | Kế hoạch ĐTXD / danh mục dự án | Đã tiếp nhận một phần (xem B5) |
 | 10 | Quy định quản lý CNTT và phân quyền bảo mật | Đã tiếp nhận |
 
 ### IV. Bộ quy trình quản lý dự án hiện hành
@@ -41,6 +41,8 @@
 | TT | Tài liệu | Ghi chú |
 |---|---|---|
 | 11 | Bộ quy trình QLDA và biểu mẫu hiện hành (QT 16, 17, 18, 34, 35, 36, 37, 161) | Đã tiếp nhận |
+
+> *Cơ sở pháp lý (Luật/Nghị định/Thông tư) do CIC tự thu thập, không thuộc tài liệu đề nghị VICEM cung cấp — xem danh mục riêng [DanhMuc_VanBanPhapLy_HD013.xlsx](DanhMuc_VanBanPhapLy_HD013.xlsx) và mục 5.2 file [Kế hoạch thực hiện](KeHoach_ThucHien_HopDong_HD013.md).*
 
 ---
 

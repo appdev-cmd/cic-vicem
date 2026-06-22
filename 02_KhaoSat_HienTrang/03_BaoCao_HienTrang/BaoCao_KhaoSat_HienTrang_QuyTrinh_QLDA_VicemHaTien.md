@@ -15,6 +15,13 @@
 
 ---
 
+> ⚠️ **GHI CHÚ CẬP NHẬT (20/6/2026):** Đây là **bản Đề xuất tiền hợp đồng V1.0 (06/5/2026)**, giữ lại làm hồ sơ lịch sử. Phạm vi/sản phẩm hiện hành theo **Hợp đồng HĐ_013/CSS_CIC_2026** và hai báo cáo Hạng mục 1 mới: [Báo cáo hiện trạng hệ thống ĐTXD](BaoCao_HienTrang_HeThong_DTXD_VicemHaTien.md) và [Báo cáo khoảng cách pháp lý](BaoCao_KhoangCach_PhapLy_DTXD_VicemHaTien.md). Hai điểm cần đính chính trong tài liệu này:
+> 1. **Các "Dự thảo Nghị định" nêu dưới đây NAY ĐÃ BAN HÀNH CHÍNH THỨC:** Hoạt động XD → **NĐ 217/2026** (19/6); Chi phí → **NĐ 206/2026** (15/6); Chất lượng–thi công–bảo trì → **NĐ 207/2026** (15/6); Hợp đồng XD → **NĐ 210/2026** (15/6); Quyết toán → **NĐ 193/2026** (1/6); Năng lực & CSDL → **NĐ 212/2026** (17/6).
+> 2. **Hệ thống có 08 quy trình** (QT 16, 17, 18, 34, 35, 36, 37, 161), không phải 6 như đánh giá sơ bộ ban đầu.
+> 3. Dự án của VICEM Hà Tiên là **"dự án đầu tư kinh doanh"** (Đ.17.1.d Luật XD 135) → tự chủ cao; nhiều nghị định vốn đầu tư công chỉ mang tính tham chiếu (xem Báo cáo khoảng cách pháp lý, mục 2A).
+
+---
+
 ## MỤC LỤC
 
 1. [Bối cảnh và sự cần thiết](#1)
@@ -33,13 +40,14 @@
 
 Quốc hội đã ban hành **Luật Xây dựng số 135/2025/QH15** ngày 10/12/2025, có hiệu lực từ **01/07/2026**, thay thế toàn bộ Luật Xây dựng 50/2014 và Luật sửa đổi 62/2020. Đi kèm là hệ sinh thái các Nghị định hướng dẫn đang được hoàn thiện:
 
-| Văn bản | Nội dung | Thay thế |
+| Văn bản (đã ban hành chính thức) | Nội dung | Thay thế |
 |---------|----------|----------|
-| Luật XD 135/2025/QH15 | Luật nền — mở rộng phạm vi, thêm Thiết kế Kỹ thuật Tổng thể, Mô hình Thông tin Công trình bắt buộc, phân quyền Chủ đầu tư | Luật 50/2014, Luật 62/2020 |
-| Dự thảo NĐ về Quản lý hoạt động XD 2026 | Trình tự đầu tư, Mô hình Thông tin Công trình và Môi trường Dữ liệu Chung bắt buộc từ nhóm B, ký số hồ sơ | NĐ 15/2021/NĐ-CP |
-| Luật XD 135/2025 — Chương VIII (Điều 81–88) + NĐ hướng dẫn đang soạn thảo | Phân loại hợp đồng: trọn gói, đơn giá cố định, đơn giá điều chỉnh, theo thời gian; hợp đồng EPC / Chìa khóa trao tay; Chủ đầu tư tự chủ điều chỉnh hợp đồng trong phạm vi tổng mức đã duyệt; điều chỉnh đơn giá theo chỉ số giá xây dựng; giải quyết tranh chấp theo thông lệ quốc tế | NĐ 37/2015, NĐ 50/2021 |
-| Dự thảo NĐ về Quản lý chi phí 2026 | Dự phòng phí chia 3 nhóm độc lập, Chủ đầu tư được tự chủ điều chỉnh cơ cấu chi phí trong tổng mức đã duyệt | NĐ 10/2021/NĐ-CP |
-| Dự thảo NĐ về Quản lý chất lượng 2026 | Nghiệm thu không giải phóng trách nhiệm nhà thầu về chất lượng; trách nhiệm trực tiếp, toàn diện về chất lượng và an toàn; đánh giá an toàn chịu lực công trình định kỳ | NĐ 06/2021/NĐ-CP |
+| **Luật XD 135/2025/QH15** (HL 01/7/2026) | Luật nền — mở rộng phạm vi, thêm Thiết kế FEED, BIM, phân quyền Chủ đầu tư; phân loại "dự án đầu tư kinh doanh" (Đ.17) | Luật 50/2014, Luật 62/2020 |
+| **NĐ 217/2026/NĐ-CP** (19/6/2026) — Quản lý hoạt động XD | Trình tự đầu tư, BIM và Môi trường dữ liệu chung, ký số hồ sơ, hình thức tổ chức QLDA | NĐ 175/2024, NĐ 15/2021 |
+| **NĐ 210/2026/NĐ-CP** (15/6/2026) — Hợp đồng XD (chi tiết Luật 135 Đ.81–88) | Phân loại hợp đồng; tạm ứng/bảo lãnh; điều chỉnh giá; với dự án đầu tư kinh doanh nhiều nội dung do **các bên thỏa thuận**; giải quyết tranh chấp theo thông lệ quốc tế (Đ.86 Luật 135) | NĐ 37/2015, NĐ 50/2021 |
+| **NĐ 206/2026/NĐ-CP** (15/6/2026) — Quản lý chi phí ĐTXD | Quản lý TMĐT, dự toán, định mức, chỉ số giá; DN tự chủ phương pháp xác định chi phí với dự án ĐTKD | NĐ 10/2021/NĐ-CP |
+| **NĐ 207/2026/NĐ-CP** (15/6/2026) — Quản lý chất lượng, thi công & bảo trì | Nghiệm thu không giải phóng trách nhiệm nhà thầu; đánh giá an toàn chịu lực; bảo hành–bảo trì | NĐ 06/2021/NĐ-CP |
+| **NĐ 193/2026** (quyết toán), **NĐ 212/2026** (năng lực & CSDL), **NĐ 209/2026** (VLXD) | Quyết toán vốn đầu tư; điều kiện năng lực, CCHN, CSDL quốc gia; quản lý vật liệu | — |
 
 
 ### 1.2. Mục tiêu của Vicem Hà Tiên
@@ -60,7 +68,7 @@ Vicem Hà Tiên mong muốn CIC thực hiện trọn gói 3 hạng mục:
 
 ### 2.1. Hệ thống quy trình hiện có
 
-Vicem Hà Tiên hiện vận hành 6 quy trình quản lý dự án được ban hành năm 2024:
+Vicem Hà Tiên hiện vận hành **08 quy trình** quản lý dự án được ban hành năm 2024:
 
 | Ký hiệu | Tên quy trình | Tình trạng theo pháp lý mới |
 |---------|---------------|----------------------------|
@@ -68,7 +76,9 @@ Vicem Hà Tiên hiện vận hành 6 quy trình quản lý dự án được ban
 | QT 35/QT-QLDA | Lựa chọn nhà thầu và ký kết hợp đồng | ⚠️ Cần cập nhật và bổ sung tiêu chí Mô hình Thông tin Công trình |
 | QT 36/QT-QLDA | Quản lý chất lượng — Chuẩn bị đầu tư | ⚠️ Cần bổ sung bước Thiết kế Kỹ thuật Tổng thể, ký số |
 | QT 37/QT-QLDA | Quản lý thực hiện hợp đồng | 🔴 Cần tái cấu trúc — rủi ro pháp lý cao |
-| QT 16/QT-QLDA | Quản lý chất lượng trong hoạt động ĐTXD (khảo sát, thiết kế, thi công, giám sát, nghiệm thu) | ⚠️ Cần cập nhật căn cứ pháp lý; bổ sung bước Thiết kế Kỹ thuật Tổng thể; bổ sung điều khoản trách nhiệm nhà thầu không bị giảm qua nghiệm thu và yêu cầu an toàn mới; chuyển sang ký số |
+| QT 16/QT-QLDA | Quản lý chất lượng trong hoạt động ĐTXD (khảo sát, thiết kế, thi công, giám sát, nghiệm thu) | ⚠️ Cần cập nhật căn cứ pháp lý; bổ sung bước Thiết kế FEED; bổ sung điều khoản trách nhiệm nhà thầu không bị giảm qua nghiệm thu và yêu cầu an toàn mới; chuyển sang ký số (NĐ 207/2026) |
+| QT 17/QT-QLDA | Thanh, quyết toán hợp đồng ĐTXD | ⚠️ Cập nhật tạm ứng/thanh toán theo NĐ 206/2026; với dự án ĐTKD nhiều nội dung do thỏa thuận hợp đồng |
+| QT 18/QT-QLDA | Quyết toán dự án hoàn thành | 🔴 NĐ 193/2026 không bắt buộc với dự án ĐTKD; quyết toán theo quy chế nội bộ + Luật 68/2025, vận dụng NĐ 193 làm chuẩn |
 | QT 161/QT-QLDA | Số hóa và lưu trữ tài liệu | 🔴 Cần cải tổ căn bản — Môi trường Dữ liệu Chung / Mô hình Thông tin Công trình / ký số |
 
 ### 2.2. Các quy trình còn thiếu (cần ban hành mới)
